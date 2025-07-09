@@ -1,0 +1,249 @@
+1.  
+- Pattern: (Company, infringes/violates/abuses, human rights of workers/community/vulnerable groups)  
+- To look for: (Acme Corp, violates, human rights of migrant workers)  
+- To ignore: (Acme Corp, supports, human rights initiatives in local communities)  
+
+2.  
+- Pattern: (Company, fails to conduct, human rights due diligence)  
+- To look for: (Global Mining Ltd, fails to conduct, human rights due diligence in conflict zone operations)  
+- To ignore: (Global Mining Ltd, completes, annual human rights due diligence report)  
+
+3.  
+- Pattern: (Company, ignores/neglects, adverse human rights impacts linked to operations)  
+- To look for: (Sunrise Textiles, ignores, forced labor allegations in supplier factories)  
+- To ignore: (Sunrise Textiles, investigates, supplier labor practices proactively)  
+
+4.  
+- Pattern: (Company, discriminates against, vulnerable groups in employment or services)  
+- To look for: (Tech Solutions, discriminates against, persons with disabilities in hiring)  
+- To ignore: (Tech Solutions, implements, inclusive hiring policies for persons with disabilities)  
+
+5.  
+- Pattern: (Company, suppresses/prevents, freedom of expression or association among workers)  
+- To look for: (Mega Manufacturing, suppresses, union organizing efforts at factory)  
+- To ignore: (Mega Manufacturing, facilitates, worker meetings for union discussions)  
+
+6.  
+- Pattern: (Company, knowingly facilitates, human rights abuses by government/security forces)  
+- To look for: (EnergyCo, provides, equipment used by security forces to repress protesters)  
+- To ignore: (EnergyCo, publicly condemns, human rights abuses by security forces)  
+
+7.  
+- Pattern: (Company, remains silent/inaction, in face of ongoing human rights violations by partners)  
+- To look for: (AgroTrade Inc, remains silent, despite supplier’s use of child labor)  
+- To ignore: (AgroTrade Inc, terminates, contracts with suppliers violating labor rights)  
+
+8.  
+- Pattern: (Company, benefits from, human rights abuses committed by third parties)  
+- To look for: (Global Textiles, benefits from, forced labor in subcontractor factories)  
+- To ignore: (Global Textiles, compensates, workers affected by subcontractor abuses)  
+
+9.  
+- Pattern: (Company, fails to implement, safeguards against complicity in abuses)  
+- To look for: (Mineral Corp, fails to implement, safeguards preventing complicity with armed groups)  
+- To ignore: (Mineral Corp, establishes, monitoring systems to avoid complicity)  
+
+10.  
+- Pattern: (Company, uses/engages, security providers violating international use of force standards)  
+- To look for: (OilCo, engages, private security accused of excessive force against local communities)  
+- To ignore: (OilCo, trains, security staff on UN Basic Principles on Use of Force)  
+
+11.  
+- Pattern: (Company, restricts/prevents, workers’ freedom of association or union activities)  
+- To look for: (Factory Ltd, prevents, workers from forming trade unions)  
+- To ignore: (Factory Ltd, allows, union representatives to meet workers on premises)  
+
+12.  
+- Pattern: (Company, interferes with, collective bargaining processes)  
+- To look for: (Retail Group, interferes with, negotiations between workers and management)  
+- To ignore: (Retail Group, participates in, good faith collective bargaining)  
+
+13.  
+- Pattern: (Company, intimidates/threatens, workers involved in union organizing)  
+- To look for: (Auto Parts Inc, intimidates, employees participating in union activities)  
+- To ignore: (Auto Parts Inc, protects, workers’ rights to organize freely)  
+
+14.  
+- Pattern: (Company, fails to recognize, representative worker organizations)  
+- To look for: (Logistics Co, fails to recognize, legally established trade unions)  
+- To ignore: (Logistics Co, signs, collective bargaining agreement with union)  
+
+15.  
+- Pattern: (Company, penalizes/dismisses, workers for union membership or activities)  
+- To look for: (Textile Works, dismisses, employees for joining union)  
+- To ignore: (Textile Works, reinstates, workers after wrongful dismissal claims)  
+
+16.  
+- Pattern: (Company, uses/engages, forced or compulsory labour)  
+- To look for: (Construction Ltd, uses, forced labour in project workforce)  
+- To ignore: (Construction Ltd, audits, labor practices to prevent forced labour)  
+
+17.  
+- Pattern: (Company, confiscates, workers’ identity documents)  
+- To look for: (Agriculture Corp, confiscates, migrant workers’ passports)  
+- To ignore: (Agriculture Corp, returns, identity documents to workers upon request)  
+
+18.  
+- Pattern: (Company, imposes, recruitment fees or debt bondage on workers)  
+- To look for: (Fishing Co, imposes, recruitment fees leading to worker indebtedness)  
+- To ignore: (Fishing Co, prohibits, charging recruitment fees to workers)  
+
+19.  
+- Pattern: (Company, restricts, workers’ freedom of movement or ability to leave employment)  
+- To look for: (Mining Ltd, restricts, workers’ freedom to leave worksite)  
+- To ignore: (Mining Ltd, respects, workers’ right to resign voluntarily)  
+
+20.  
+- Pattern: (Company, employs, child labour under hazardous or exploitative conditions)  
+- To look for: (Textile Factory, employs, children under 15 in hazardous tasks)  
+- To ignore: (Textile Factory, employs, youth workers above legal minimum age with protections)  
+
+21.  
+- Pattern: (Company, fails to verify, age of workers to prevent child labour)  
+- To look for: (Food Processing Co, fails to verify, age of recruited workers)  
+- To ignore: (Food Processing Co, implements, age verification procedures)  
+
+22.  
+- Pattern: (Company, removes, children from hazardous work and provides alternatives)  
+- To look for: (Mining Corp, removes, child workers and enrolls them in school)  
+- To ignore: (Mining Corp, ignores, reports of child labour in supply chain)  
+
+23.  
+- Pattern: (Company, discriminates against, employees based on race, gender, disability, or other protected characteristics)  
+- To look for: (Tech Firm, discriminates against, female employees in promotions)  
+- To ignore: (Tech Firm, promotes, diversity and inclusion policies)  
+
+24.  
+- Pattern: (Company, implements, policies or practices resulting in indirect discrimination)  
+- To look for: (Retail Chain, applies, work schedules disproportionately excluding pregnant women)  
+- To ignore: (Retail Chain, adjusts, schedules to accommodate employee needs)  
+
+25.  
+- Pattern: (Company, fails to provide, reasonable accommodations for employees with disabilities)  
+- To look for: (Banking Group, fails to provide, accessible facilities for disabled staff)  
+- To ignore: (Banking Group, upgrades, offices to be disability-friendly)  
+
+26.  
+- Pattern: (Company, fosters, inclusive and non-discriminatory workplace culture)  
+- To look for: (Consulting Firm, fosters, inclusive culture through training and policies)  
+- To ignore: (Consulting Firm, tolerates, discriminatory remarks by supervisors)  
+
+27.  
+- Pattern: (Company, applies, precautionary approach to environmental risks despite scientific uncertainty)  
+- To look for: (ChemCo, halts, chemical release pending further environmental impact studies)  
+- To ignore: (ChemCo, ignores, early warnings about potential environmental harm)  
+
+28.  
+- Pattern: (Company, fails to adopt, precautionary measures in face of suspected environmental harm)  
+- To look for: (Energy Corp, continues, operations despite credible pollution risk)  
+- To ignore: (Energy Corp, invests, in pollution control technologies proactively)  
+
+29.  
+- Pattern: (Company, communicates transparently, environmental risks and uncertainties to stakeholders)  
+- To look for: (Pharma Inc, discloses, potential environmental impacts of new product)  
+- To ignore: (Pharma Inc, withholds, information on environmental incidents)  
+
+30.  
+- Pattern: (Company, collaborates with, scientific institutions to assess environmental risks)  
+- To look for: (Auto Manufacturer, partners with, university to study emissions impact)  
+- To ignore: (Auto Manufacturer, ignores, independent environmental research findings)  
+
+31.  
+- Pattern: (Company, integrates, sustainable development into business strategy and operations)  
+- To look for: (Retail Group, integrates, sustainability targets into corporate strategy)  
+- To ignore: (Retail Group, focuses solely on short-term profits ignoring sustainability)  
+
+32.  
+- Pattern: (Company, exceeds, environmental regulatory compliance through voluntary initiatives)  
+- To look for: (Food Producer, adopts, zero-waste program beyond legal requirements)  
+- To ignore: (Food Producer, complies only with minimum environmental standards)  
+
+33.  
+- Pattern: (Company, engages suppliers, to improve environmental performance across value chain)  
+- To look for: (Electronics Co, requires, suppliers to meet environmental standards)  
+- To ignore: (Electronics Co, ignores, environmental practices of subcontractors)  
+
+34.  
+- Pattern: (Company, reports publicly, environmental performance and sustainability progress)  
+- To look for: (Mining Corp, publishes, annual sustainability report with environmental data)  
+- To ignore: (Mining Corp, fails to disclose, environmental impact information)  
+
+35.  
+- Pattern: (Company, uses, environmental management systems to reduce ecological footprint)  
+- To look for: (Textile Manufacturer, implements, ISO 14001 environmental management system)  
+- To ignore: (Textile Manufacturer, lacks, formal environmental management processes)  
+
+36.  
+- Pattern: (Company, adopts, environmentally sound technologies to reduce pollution and resource use)  
+- To look for: (Chemical Co, installs, cleaner production technology reducing emissions)  
+- To ignore: (Chemical Co, continues, using outdated polluting equipment)  
+
+37.  
+- Pattern: (Company, invests in, research and development for sustainable product design)  
+- To look for: (Auto Maker, develops, electric vehicles to reduce carbon footprint)  
+- To ignore: (Auto Maker, delays, innovation in environmentally friendly technologies)  
+
+38.  
+- Pattern: (Company, collaborates with, industry partners to promote best environmental technologies)  
+- To look for: (Steel Producer, joins, consortium to share clean technology innovations)  
+- To ignore: (Steel Producer, isolates, itself from environmental technology initiatives)  
+
+39.  
+- Pattern: (Company, integrates, environmental criteria into supplier selection and investment decisions)  
+- To look for: (Retailer, requires, suppliers to meet environmental standards before contracting)  
+- To ignore: (Retailer, selects, suppliers without environmental considerations)  
+
+40.  
+- Pattern: (Company, discloses, environmental technology benefits and risks to stakeholders)  
+- To look for: (Pharma Co, informs, public about new green manufacturing process)  
+- To ignore: (Pharma Co, conceals, environmental risks of new technology)  
+
+41.  
+- Pattern: (Company, bribes/pays/transfers value to, government official/regulator/decision-maker)  
+- To look for: (Global Corp, bribes, customs official to expedite shipments)  
+- To ignore: (Global Corp, pays, legally mandated taxes to government)  
+
+42.  
+- Pattern: (Company, solicits/extorts, payments through threats or coercion)  
+- To look for: (Construction Firm, extorts, local officials for project permits)  
+- To ignore: (Construction Firm, negotiates, contract terms transparently with authorities)  
+
+43.  
+- Pattern: (Company, fails to implement, anti-corruption policies and compliance programs)  
+- To look for: (Finance Group, fails to implement, anti-bribery compliance measures)  
+- To ignore: (Finance Group, establishes, comprehensive anti-corruption program)  
+
+44.  
+- Pattern: (Company, participates in, collective action initiatives against corruption)  
+- To look for: (Tech Firm, joins, industry anti-corruption coalition)  
+- To ignore: (Tech Firm, ignores, calls for collective anti-corruption efforts)  
+
+45.  
+- Pattern: (Company, reports transparently, anti-corruption efforts in annual Communication on Progress)  
+- To look for: (Energy Corp, reports, anti-corruption measures in UN Global Compact COP)  
+- To ignore: (Energy Corp, omits, anti-corruption information from public reports)  
+
+46.  
+- Pattern: (Company, uses, agents or intermediaries to facilitate corrupt payments)  
+- To look for: (Pharma Co, uses, third-party agents to bribe officials)  
+- To ignore: (Pharma Co, monitors, agents to prevent corrupt practices)  
+
+47.  
+- Pattern: (Company, retaliates against, whistleblowers reporting corruption)  
+- To look for: (Mining Ltd, retaliates, against employee reporting bribery)  
+- To ignore: (Mining Ltd, protects, whistleblowers from retaliation)  
+
+48.  
+- Pattern: (Company, abuses entrusted power, for private gain through corrupt practices)  
+- To look for: (Banking Group, abuses, power to secure contracts via kickbacks)  
+- To ignore: (Banking Group, follows, transparent procurement procedures)  
+
+49.  
+- Pattern: (Company, fails to train, employees on anti-corruption policies and risks)  
+- To look for: (Retailer, fails to train, staff on bribery prevention)  
+- To ignore: (Retailer, conducts, regular anti-corruption training sessions)  
+
+50.  
+- Pattern: (Company, conceals, corrupt transactions or related documents)  
+- To look for: (Logistics Co, conceals, payments to officials in financial records)  
+- To ignore: (Logistics Co, maintains, transparent and auditable financial records)

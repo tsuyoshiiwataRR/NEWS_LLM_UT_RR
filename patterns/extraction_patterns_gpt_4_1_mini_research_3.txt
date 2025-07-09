@@ -1,0 +1,119 @@
+1. **Pattern:** (Company, infringes/violates/abuses, human rights of workers/community/vulnerable groups)  
+   **To look for:** (Acme Corp, violates, human rights of migrant workers)  
+   **To ignore:** (Acme Corp, supports, human rights initiatives in local communities)
+
+2. **Pattern:** (Company, fails to conduct, human rights due diligence)  
+   **To look for:** (Global Mining Ltd, fails to conduct, human rights due diligence in conflict zone operations)  
+   **To ignore:** (Global Mining Ltd, conducts, comprehensive human rights due diligence annually)
+
+3. **Pattern:** (Company, ignores/neglects, adverse human rights impacts linked to operations/supply chain)  
+   **To look for:** (TextileCo, neglects, adverse human rights impacts linked to its suppliers)  
+   **To ignore:** (TextileCo, addresses, adverse human rights impacts through remediation programs)
+
+4. **Pattern:** (Company, knowingly facilitates/provides resources for, human rights abuses by third parties)  
+   **To look for:** (EnergyCorp, knowingly provides equipment for, security forces committing abuses)  
+   **To ignore:** (EnergyCorp, terminates contract with, supplier accused of abuses)
+
+5. **Pattern:** (Company, remains silent/inaction regarding, ongoing human rights violations by partners/government)  
+   **To look for:** (AgroFirm, remains silent regarding, forced evictions by local authorities)  
+   **To ignore:** (AgroFirm, publicly condemns, forced evictions by local authorities)
+
+6. **Pattern:** (Company, benefits from, human rights abuses committed by business partners/government)  
+   **To look for:** (SteelWorks, benefits from, child labour in subcontractor factories)  
+   **To ignore:** (SteelWorks, invests in, programs to eliminate child labour in supply chain)
+
+7. **Pattern:** (Company, restricts/prevents/penalizes, workers’ freedom of association or union activities)  
+   **To look for:** (Factory Inc, penalizes, workers for union membership)  
+   **To ignore:** (Factory Inc, facilitates, union meetings on company premises)
+
+8. **Pattern:** (Company, interferes with, formation or administration of workers’ organizations)  
+   **To look for:** (Logistics Ltd, interferes with, election of union representatives)  
+   **To ignore:** (Logistics Ltd, respects, workers’ right to elect union leaders freely)
+
+9. **Pattern:** (Company, refuses to recognize, collective bargaining representatives or agreements)  
+   **To look for:** (RetailCo, refuses to recognize, workers’ collective bargaining representatives)  
+   **To ignore:** (RetailCo, negotiates in good faith with, recognized trade unions)
+
+10. **Pattern:** (Company, employs/uses, forced or compulsory labour)  
+    **To look for:** (Construction Group, employs, forced labourers on project sites)  
+    **To ignore:** (Construction Group, implements policies prohibiting, forced labour)
+
+11. **Pattern:** (Company, confiscates/withholds, workers’ identity documents or personal papers)  
+    **To look for:** (Harvest Ltd, withholds, migrant workers’ passports)  
+    **To ignore:** (Harvest Ltd, returns, identity documents upon request)
+
+12. **Pattern:** (Company, charges, recruitment fees or deposits leading to debt bondage)  
+    **To look for:** (FactoryWorks, charges, excessive recruitment fees causing worker indebtedness)  
+    **To ignore:** (FactoryWorks, prohibits, charging recruitment fees to workers)
+
+13. **Pattern:** (Company, employs/uses, child labour under exploitative or hazardous conditions)  
+    **To look for:** (GarmentCo, employs, children under 15 in hazardous factory work)  
+    **To ignore:** (GarmentCo, employs, legally permitted youth workers with safeguards)
+
+14. **Pattern:** (Company, fails to verify, age of workers leading to child labour risks)  
+    **To look for:** (Food Processing Inc, fails to verify, age of seasonal workers)  
+    **To ignore:** (Food Processing Inc, implements, strict age verification procedures)
+
+15. **Pattern:** (Company, removes/withdraws, children from work without providing alternatives)  
+    **To look for:** (MiningCo, removes, child workers but offers no schooling options)  
+    **To ignore:** (MiningCo, removes, child workers and supports their education)
+
+16. **Pattern:** (Company, discriminates against, employees or applicants based on prohibited grounds)  
+    **To look for:** (Tech Solutions, discriminates against, female applicants in hiring)  
+    **To ignore:** (Tech Solutions, promotes, gender equality in recruitment)
+
+17. **Pattern:** (Company, applies, unequal pay or conditions based on race/sex/age/disability)  
+    **To look for:** (Retail Group, applies, lower wages to disabled employees)  
+    **To ignore:** (Retail Group, ensures, equal pay for equal work regardless of disability)
+
+18. **Pattern:** (Company, enforces, policies or practices with indirect discriminatory effects)  
+    **To look for:** (Logistics Corp, enforces, height requirements excluding certain ethnic groups)  
+    **To ignore:** (Logistics Corp, reviews, policies to prevent indirect discrimination)
+
+19. **Pattern:** (Company, adopts, precautionary measures to prevent environmental harm despite uncertainty)  
+    **To look for:** (ChemCo, adopts, precautionary approach to chemical waste disposal)  
+    **To ignore:** (ChemCo, waits for conclusive evidence before acting on environmental risks)
+
+20. **Pattern:** (Company, fails to apply, precautionary approach leading to environmental damage)  
+    **To look for:** (OilCo, fails to apply, precautionary measures causing oil spill)  
+    **To ignore:** (OilCo, implements, strict environmental safeguards proactively)
+
+21. **Pattern:** (Company, communicates transparently, environmental risks and uncertainties to stakeholders)  
+    **To look for:** (Energy Ltd, communicates, potential environmental risks of new project)  
+    **To ignore:** (Energy Ltd, conceals, environmental risk information from public)
+
+22. **Pattern:** (Company, integrates, sustainable development principles into business strategy and operations)  
+    **To look for:** (GreenTech, integrates, sustainability targets across all departments)  
+    **To ignore:** (GreenTech, treats, sustainability as a peripheral concern)
+
+23. **Pattern:** (Company, exceeds, regulatory environmental compliance through voluntary initiatives)  
+    **To look for:** (Manufacturing Inc, exceeds, environmental regulations via green certifications)  
+    **To ignore:** (Manufacturing Inc, only meets, minimum environmental legal requirements)
+
+24. **Pattern:** (Company, collaborates with, suppliers and partners to improve environmental performance)  
+    **To look for:** (Retail Chain, collaborates with, suppliers to reduce packaging waste)  
+    **To ignore:** (Retail Chain, ignores, environmental practices of suppliers)
+
+25. **Pattern:** (Company, adopts/promotes, environmentally sound technologies reducing pollution/resource use)  
+    **To look for:** (AutoCorp, adopts, cleaner production technologies to reduce emissions)  
+    **To ignore:** (AutoCorp, continues, use of outdated polluting technologies)
+
+26. **Pattern:** (Company, invests in, research and development of sustainable/environmentally sound products)  
+    **To look for:** (Pharma Inc, invests in, development of biodegradable packaging)  
+    **To ignore:** (Pharma Inc, neglects, innovation in environmental sustainability)
+
+27. **Pattern:** (Company, discloses, environmental performance and technology benefits to stakeholders)  
+    **To look for:** (Energy Solutions, discloses, environmental impact data in annual report)  
+    **To ignore:** (Energy Solutions, withholds, environmental performance information)
+
+28. **Pattern:** (Company, bribes/pays/transfers value to, government official/regulator/decision-maker)  
+    **To look for:** (BuildCo, bribes, local official to secure construction permit)  
+    **To ignore:** (BuildCo, legally pays, government fees for permits)
+
+29. **Pattern:** (Company, solicits/extorts, payments through threats or coercion)  
+    **To look for:** (TradeFirm, extorts, payments from suppliers under threat of contract termination)  
+    **To ignore:** (TradeFirm, negotiates, fair contract terms with suppliers)
+
+30. **Pattern:** (Company, fails to implement, anti-corruption policies or compliance programs)  
+    **To look for:** (Finance Group, fails to implement, anti-corruption compliance measures)  
+    **To ignore:** (Finance Group, enforces, comprehensive anti-corruption policies company-wide)

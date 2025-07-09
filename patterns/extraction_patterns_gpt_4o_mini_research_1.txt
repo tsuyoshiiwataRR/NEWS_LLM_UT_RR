@@ -1,0 +1,55 @@
+Here is the extraction framework with specialized patterns for each UN Global Compact (UNGC) Principle, including formal triple structures, examples, and counterexamples.
+
+### Extraction Patterns for UN Global Compact Principles
+
+1. **Pattern for UNGC Principle One: Human Rights**
+   - **Triple Structure**: (Company, infringes on, human rights of individuals)
+   - **To look for**: "The company infringes on the human rights of local communities by failing to provide safe working conditions."
+   - **To ignore**: "The company provides training on human rights to its employees."
+
+2. **Pattern for UNGC Principle Two: Human Rights**
+   - **Triple Structure**: (Company, is complicit in, human rights abuses by another entity)
+   - **To look for**: "The company is complicit in human rights abuses by supplying materials to a government known for its oppressive practices."
+   - **To ignore**: "The company actively promotes human rights through community engagement programs."
+
+3. **Pattern for UNGC Principle Three: Labour**
+   - **Triple Structure**: (Company, restricts, workers' right to organize)
+   - **To look for**: "The company restricts workers' right to organize by intimidating union representatives."
+   - **To ignore**: "The company encourages workers to join training sessions on labor rights."
+
+4. **Pattern for UNGC Principle Four: Labour**
+   - **Triple Structure**: (Company, employs, forced labor)
+   - **To look for**: "The company employs forced labor in its supply chain, requiring workers to pay recruitment fees."
+   - **To ignore**: "The company has a policy against forced labor and regularly audits its suppliers."
+
+5. **Pattern for UNGC Principle Five: Labour**
+   - **Triple Structure**: (Company, utilizes, child labor)
+   - **To look for**: "The company utilizes child labor in its factories, employing children under the legal working age."
+   - **To ignore**: "The company supports educational initiatives for children in the community."
+
+6. **Pattern for UNGC Principle Six: Labour**
+   - **Triple Structure**: (Company, discriminates against, employees based on gender)
+   - **To look for**: "The company discriminates against employees based on gender, paying women less than their male counterparts."
+   - **To ignore**: "The company has implemented diversity training to promote equality in the workplace."
+
+7. **Pattern for UNGC Principle Seven: Environment**
+   - **Triple Structure**: (Company, neglects, environmental precautions)
+   - **To look for**: "The company neglects environmental precautions, leading to significant pollution in the local river."
+   - **To ignore**: "The company has adopted a new policy to enhance environmental sustainability."
+
+8. **Pattern for UNGC Principle Eight: Environment**
+   - **Triple Structure**: (Company, fails to promote, environmental responsibility)
+   - **To look for**: "The company fails to promote environmental responsibility, ignoring community concerns about waste disposal."
+   - **To ignore**: "The company actively participates in local clean-up initiatives."
+
+9. **Pattern for UNGC Principle Nine: Environment**
+   - **Triple Structure**: (Company, develops, environmentally friendly technologies)
+   - **To look for**: "The company develops environmentally friendly technologies to reduce its carbon footprint."
+   - **To ignore**: "The company has a long history of innovation in various sectors."
+
+10. **Pattern for UNGC Principle Ten: Anti-Corruption**
+    - **Triple Structure**: (Company, engages in, bribery)
+    - **To look for**: "The company engages in bribery to secure contracts with government officials."
+    - **To ignore**: "The company has a strict code of ethics that prohibits any form of corruption."
+
+This framework provides a systematic approach to identifying potential violations of the UN Global Compact Principles in news articles, ensuring that both direct and indirect violations are captured effectively.

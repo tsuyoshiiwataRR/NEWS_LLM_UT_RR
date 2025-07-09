@@ -1,0 +1,273 @@
+Here is the extraction framework with specialized patterns for each UN Global Compact (UNGC) Principle, including formal triple structures, examples, and counterexamples.
+
+### UN Global Compact (UNGC) Principle One: Human Rights
+
+1. **Pattern 1**  
+   - **Triple Structure**: (Company, violates, human rights of individuals)  
+   - **To look for**: "The company violated the human rights of local communities."  
+   - **To ignore**: "The company is known for its innovative products."
+
+2. **Pattern 2**  
+   - **Triple Structure**: (Company, fails to conduct, human rights due diligence)  
+   - **To look for**: "The company failed to conduct proper human rights due diligence."  
+   - **To ignore**: "The company conducted a successful marketing campaign."
+
+3. **Pattern 3**  
+   - **Triple Structure**: (Company, ignores, recommendations from NGOs)  
+   - **To look for**: "The company ignored recommendations from NGOs regarding human rights."  
+   - **To ignore**: "The company received positive feedback from customers."
+
+4. **Pattern 4**  
+   - **Triple Structure**: (Company, contributes to, adverse human rights impacts)  
+   - **To look for**: "The company contributes to adverse human rights impacts in the region."  
+   - **To ignore**: "The company has a strong financial performance."
+
+5. **Pattern 5**  
+   - **Triple Structure**: (Company, fails to address, human rights grievances)  
+   - **To look for**: "The company fails to address human rights grievances raised by workers."  
+   - **To ignore**: "The company is expanding its product line."
+
+### UN Global Compact (UNGC) Principle Two: Human Rights
+
+6. **Pattern 6**  
+   - **Triple Structure**: (Company, is complicit in, human rights abuses)  
+   - **To look for**: "The company is complicit in human rights abuses committed by its suppliers."  
+   - **To ignore**: "The company has launched a new advertising campaign."
+
+7. **Pattern 7**  
+   - **Triple Structure**: (Company, provides, goods used for human rights violations)  
+   - **To look for**: "The company provides goods that are used for human rights violations."  
+   - **To ignore**: "The company has a diverse product range."
+
+8. **Pattern 8**  
+   - **Triple Structure**: (Company, benefits from, human rights abuses)  
+   - **To look for**: "The company benefits from human rights abuses in its supply chain."  
+   - **To ignore**: "The company is investing in renewable energy."
+
+9. **Pattern 9**  
+   - **Triple Structure**: (Company, remains silent about, systematic human rights abuses)  
+   - **To look for**: "The company remains silent about systematic human rights abuses in the region."  
+   - **To ignore**: "The company is known for its community engagement."
+
+10. **Pattern 10**  
+    - **Triple Structure**: (Company, fails to implement, human rights policies)  
+    - **To look for**: "The company fails to implement its human rights policies effectively."  
+    - **To ignore**: "The company has a strong market presence."
+
+### UN Global Compact (UNGC) Principle Three: Labour
+
+11. **Pattern 11**  
+    - **Triple Structure**: (Company, restricts, freedom of association)  
+    - **To look for**: "The company restricts the freedom of association for its workers."  
+    - **To ignore**: "The company offers competitive salaries."
+
+12. **Pattern 12**  
+    - **Triple Structure**: (Company, fails to recognize, collective bargaining rights)  
+    - **To look for**: "The company fails to recognize the collective bargaining rights of its employees."  
+    - **To ignore**: "The company has a positive work environment."
+
+13. **Pattern 13**  
+    - **Triple Structure**: (Company, intimidates, union representatives)  
+    - **To look for**: "The company intimidates union representatives to prevent organizing."  
+    - **To ignore**: "The company is expanding its workforce."
+
+14. **Pattern 14**  
+    - **Triple Structure**: (Company, delays, collective bargaining negotiations)  
+    - **To look for**: "The company delays collective bargaining negotiations without justification."  
+    - **To ignore**: "The company has received awards for employee satisfaction."
+
+15. **Pattern 15**  
+    - **Triple Structure**: (Company, discriminates against, union members)  
+    - **To look for**: "The company discriminates against employees who are union members."  
+    - **To ignore**: "The company is launching a new product line."
+
+### UN Global Compact (UNGC) Principle Four: Labour
+
+16. **Pattern 16**  
+    - **Triple Structure**: (Company, engages in, forced labour practices)  
+    - **To look for**: "The company engages in forced labour practices in its factories."  
+    - **To ignore**: "The company has a strong corporate social responsibility program."
+
+17. **Pattern 17**  
+    - **Triple Structure**: (Company, withholds, wages from workers)  
+    - **To look for**: "The company withholds wages from workers as a form of coercion."  
+    - **To ignore**: "The company provides bonuses to its employees."
+
+18. **Pattern 18**  
+    - **Triple Structure**: (Company, uses, child labour in production)  
+    - **To look for**: "The company uses child labour in its production processes."  
+   - **To ignore**: "The company is known for its ethical sourcing."
+
+19. **Pattern 19**  
+    - **Triple Structure**: (Company, confines, workers to their locations)  
+    - **To look for**: "The company confines workers to their locations without consent."  
+    - **To ignore**: "The company has a flexible work-from-home policy."
+
+20. **Pattern 20**  
+    - **Triple Structure**: (Company, charges, recruitment fees to workers)  
+    - **To look for**: "The company charges recruitment fees to workers, leading to debt bondage."  
+    - **To ignore**: "The company offers free training programs."
+
+### UN Global Compact (UNGC) Principle Five: Labour
+
+21. **Pattern 21**  
+    - **Triple Structure**: (Company, employs, children under legal working age)  
+    - **To look for**: "The company employs children under the legal working age."  
+    - **To ignore**: "The company supports youth employment initiatives."
+
+22. **Pattern 22**  
+    - **Triple Structure**: (Company, ignores, minimum age regulations)  
+    - **To look for**: "The company ignores minimum age regulations in its hiring practices."  
+    - **To ignore**: "The company adheres to local labor laws."
+
+23. **Pattern 23**  
+    - **Triple Structure**: (Company, allows, hazardous work for minors)  
+    - **To look for**: "The company allows hazardous work for minors in its facilities."  
+    - **To ignore**: "The company provides safe working conditions."
+
+24. **Pattern 24**  
+    - **Triple Structure**: (Company, fails to provide, educational opportunities for working children)  
+    - **To look for**: "The company fails to provide educational opportunities for working children."  
+    - **To ignore**: "The company invests in community education programs."
+
+25. **Pattern 25**  
+    - **Triple Structure**: (Company, does not remove, children from exploitative labor)  
+    - **To look for**: "The company does not remove children from exploitative labor situations."  
+    - **To ignore**: "The company has a child protection policy."
+
+### UN Global Compact (UNGC) Principle Six: Labour
+
+26. **Pattern 26**  
+    - **Triple Structure**: (Company, discriminates against, employees based on gender)  
+    - **To look for**: "The company discriminates against employees based on gender."  
+    - **To ignore**: "The company promotes gender equality in the workplace."
+
+27. **Pattern 27**  
+    - **Triple Structure**: (Company, implements, discriminatory hiring practices)  
+    - **To look for**: "The company implements discriminatory hiring practices against minorities."  
+    - **To ignore**: "The company values diversity in its workforce."
+
+28. **Pattern 28**  
+    - **Triple Structure**: (Company, fails to accommodate, employees with disabilities)  
+    - **To look for**: "The company fails to accommodate employees with disabilities."  
+    - **To ignore**: "The company has an inclusive workplace policy."
+
+29. **Pattern 29**  
+    - **Triple Structure**: (Company, promotes, unequal pay for equal work)  
+    - **To look for**: "The company promotes unequal pay for equal work among employees."  
+    - **To ignore**: "The company conducts regular pay equity audits."
+
+30. **Pattern 30**  
+    - **Triple Structure**: (Company, does not provide, equal opportunities for advancement)  
+    - **To look for**: "The company does not provide equal opportunities for advancement to all employees."  
+    - **To ignore**: "The company has a mentorship program for all employees."
+
+### UN Global Compact (UNGC) Principle Seven: Environment
+
+31. **Pattern 31**  
+    - **Triple Structure**: (Company, neglects, environmental impact assessments)  
+    - **To look for**: "The company neglects to conduct environmental impact assessments for its projects."  
+    - **To ignore**: "The company has a robust environmental management system."
+
+32. **Pattern 32**  
+    - **Triple Structure**: (Company, contributes to, environmental degradation)  
+    - **To look for**: "The company contributes to environmental degradation through its operations."  
+    - **To ignore**: "The company invests in sustainable practices."
+
+33. **Pattern 33**  
+    - **Triple Structure**: (Company, fails to adopt, precautionary measures)  
+    - **To look for**: "The company fails to adopt precautionary measures to prevent environmental harm."  
+    - **To ignore**: "The company has implemented precautionary measures."
+
+34. **Pattern 34**  
+    - **Triple Structure**: (Company, disregards, public concerns about pollution)  
+    - **To look for**: "The company disregards public concerns about pollution from its facilities."  
+    - **To ignore**: "The company engages with the community on environmental issues."
+
+35. **Pattern 35**  
+    - **Triple Structure**: (Company, fails to report, environmental performance)  
+    - **To look for**: "The company fails to report its environmental performance transparently."  
+    - **To ignore**: "The company publishes an annual sustainability report."
+
+### UN Global Compact (UNGC) Principle Eight: Environment
+
+36. **Pattern 36**  
+    - **Triple Structure**: (Company, lacks, self-regulation on environmental practices)  
+    - **To look for**: "The company lacks self-regulation on its environmental practices."  
+    - **To ignore**: "The company follows strict environmental guidelines."
+
+37. **Pattern 37**  
+    - **Triple Structure**: (Company, harms, local ecosystems)  
+    - **To look for**: "The company harms local ecosystems through its operations."  
+    - **To ignore**: "The company supports local conservation efforts."
+
+38. **Pattern 38**  
+    - **Triple Structure**: (Company, fails to meet, societal expectations for sustainability)  
+    - **To look for**: "The company fails to meet societal expectations for sustainability."  
+    - **To ignore**: "The company is recognized for its sustainable practices."
+
+39. **Pattern 39**  
+    - **Triple Structure**: (Company, does not engage in, environmental initiatives)  
+    - **To look for**: "The company does not engage in any environmental initiatives."  
+    - **To ignore**: "The company participates in various environmental initiatives."
+
+40. **Pattern 40**  
+    - **Triple Structure**: (Company, neglects, environmental responsibilities)  
+    - **To look for**: "The company neglects its environmental responsibilities in its operations."  
+    - **To ignore**: "The company actively promotes environmental responsibility."
+
+### UN Global Compact (UNGC) Principle Nine: Environment
+
+41. **Pattern 41**  
+    - **Triple Structure**: (Company, fails to promote, environmentally friendly technologies)  
+    - **To look for**: "The company fails to promote environmentally friendly technologies in its operations."  
+    - **To ignore**: "The company invests in green technology development."
+
+42. **Pattern 42**  
+    - **Triple Structure**: (Company, does not invest in, sustainable practices)  
+    - **To look for**: "The company does not invest in sustainable practices or technologies."  
+    - **To ignore**: "The company has a strong commitment to sustainability."
+
+43. **Pattern 43**  
+    - **Triple Structure**: (Company, ignores, research on clean technologies)  
+    - **To look for**: "The company ignores research on clean technologies that could benefit its operations."  
+    - **To ignore**: "The company collaborates with researchers on clean technology."
+
+44. **Pattern 44**  
+    - **Triple Structure**: (Company, fails to adopt, best practices in environmental technology)  
+    - **To look for**: "The company fails to adopt best practices in environmental technology."  
+    - **To ignore**: "The company is a leader in environmental technology."
+
+45. **Pattern 45**  
+    - **Triple Structure**: (Company, does not support, innovation in sustainable technologies)  
+    - **To look for**: "The company does not support innovation in sustainable technologies."  
+    - **To ignore**: "The company funds research in sustainable technologies."
+
+### UN Global Compact (UNGC) Principle Ten: Anti-Corruption
+
+46. **Pattern 46**  
+    - **Triple Structure**: (Company, engages in, bribery of officials)  
+    - **To look for**: "The company engages in bribery of officials to secure contracts."  
+    - **To ignore**: "The company has a strict anti-bribery policy."
+
+47. **Pattern 47**  
+    - **Triple Structure**: (Company, fails to implement, anti-corruption measures)  
+    - **To look for**: "The company fails to implement effective anti-corruption measures."  
+    - **To ignore**: "The company regularly audits its anti-corruption practices."
+
+48. **Pattern 48**  
+    - **Triple Structure**: (Company, tolerates, corrupt practices among employees)  
+    - **To look for**: "The company tolerates corrupt practices among its employees."  
+    - **To ignore**: "The company promotes ethical behavior among its staff."
+
+49. **Pattern 49**  
+    - **Triple Structure**: (Company, does not report, corruption incidents)  
+    - **To look for**: "The company does not report incidents of corruption internally or externally."  
+    - **To ignore**: "The company has a transparent reporting mechanism for corruption."
+
+50. **Pattern 50**  
+    - **Triple Structure**: (Company, engages in, extortion practices)  
+    - **To look for**: "The company engages in extortion practices to gain business advantages."  
+    - **To ignore**: "The company is known for its fair business practices."
+
+This framework provides a systematic approach to identifying potential violations of the UN Global Compact Principles in news articles, ensuring that both direct and indirect violations are captured effectively.

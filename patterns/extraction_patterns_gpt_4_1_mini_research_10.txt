@@ -1,0 +1,546 @@
+Below is a comprehensive extraction framework with 10 specialized patterns per UN Global Compact Principle (Principles 1 to 10), totaling 100 patterns.  
+Each pattern is formalized as a triple (Entity A, Action, Entity B), with a "To look for" example (illustrating a potential violation) and a "To ignore" example (illustrating a non-violation or irrelevant case).
+
+---
+
+# Patterns 1–10: UN Global Compact Principle One – Human Rights (Respect and Support)
+
+1.  
+- Triple: (Company, infringes/violates, human rights of workers)  
+- To look for: (Acme Corp, violates, human rights of factory workers)  
+- To ignore: (Acme Corp, supports, human rights training for employees)
+
+2.  
+- Triple: (Company, fails to address, adverse human rights impacts on local community)  
+- To look for: (Global Mining Ltd, fails to address, adverse human rights impacts on indigenous community)  
+- To ignore: (Global Mining Ltd, consults, local community on environmental issues)
+
+3.  
+- Triple: (Company, discriminates against, vulnerable groups in employment)  
+- To look for: (Tech Solutions, discriminates against, migrant workers in hiring)  
+- To ignore: (Tech Solutions, promotes, diversity and inclusion programs)
+
+4.  
+- Triple: (Company, ignores, internationally recognized human rights standards)  
+- To look for: (MegaTextiles, ignores, International Labour Organization conventions)  
+- To ignore: (MegaTextiles, complies with, national labor laws)
+
+5.  
+- Triple: (Company, operates without, human rights due diligence)  
+- To look for: (FastFashion Inc, operates without, human rights due diligence in supply chain)  
+- To ignore: (FastFashion Inc, conducts, annual human rights risk assessments)
+
+6.  
+- Triple: (Company, fails to consult, potentially affected stakeholders)  
+- To look for: (EnergyCo, fails to consult, local residents before project launch)  
+- To ignore: (EnergyCo, holds, stakeholder engagement meetings)
+
+7.  
+- Triple: (Company, neglects, remediation of human rights abuses)  
+- To look for: (AgroFoods, neglects, remediation of child labor cases in suppliers)  
+- To ignore: (AgroFoods, implements, grievance mechanisms for workers)
+
+8.  
+- Triple: (Company, confiscates, workers’ identity documents)  
+- To look for: (BuildIt Ltd, confiscates, migrant workers’ passports)  
+- To ignore: (BuildIt Ltd, returns, identity documents upon request)
+
+9.  
+- Triple: (Company, fails to communicate, human rights policy publicly)  
+- To look for: (RetailGroup, fails to communicate, human rights policy to stakeholders)  
+- To ignore: (RetailGroup, publishes, human rights policy on website)
+
+10.  
+- Triple: (Company, exposes, workers to unsafe or unhealthy conditions)  
+- To look for: (SteelWorks, exposes, workers to hazardous chemicals without protection)  
+- To ignore: (SteelWorks, provides, protective equipment to employees)
+
+---
+
+# Patterns 11–20: UN Global Compact Principle Two – Avoiding Complicity in Human Rights Abuses
+
+11.  
+- Triple: (Company, provides, goods/services used to commit human rights abuses)  
+- To look for: (DefenseCorp, provides, equipment used by military to suppress protests)  
+- To ignore: (DefenseCorp, supplies, office equipment to civilian offices)
+
+12.  
+- Triple: (Company, benefits from, human rights abuses committed by partner)  
+- To look for: (AgriGlobal, benefits from, forced labor in supplier plantations)  
+- To ignore: (AgriGlobal, terminates, contracts with abusive suppliers)
+
+13.  
+- Triple: (Company, remains silent on, ongoing human rights violations)  
+- To look for: (OilCo, remains silent on, abuses by local security forces)  
+- To ignore: (OilCo, publicly condemns, human rights violations in host country)
+
+14.  
+- Triple: (Company, fails to conduct, human rights impact assessments)  
+- To look for: (TextileWorks, fails to conduct, human rights impact assessments in new markets)  
+- To ignore: (TextileWorks, completes, comprehensive impact assessments annually)
+
+15.  
+- Triple: (Company, contracts, security providers who commit abuses)  
+- To look for: (MiningCorp, contracts, private security accused of violence against communities)  
+- To ignore: (MiningCorp, trains, security staff on human rights standards)
+
+16.  
+- Triple: (Company, omits, clauses condemning human rights violations in contracts)  
+- To look for: (LogiTrans, omits, human rights clauses in supplier agreements)  
+- To ignore: (LogiTrans, includes, human rights compliance clauses in contracts)
+
+17.  
+- Triple: (Company, fails to use, leverage to mitigate linked human rights impacts)  
+- To look for: (FoodCo, fails to use, leverage over abusive subcontractors)  
+- To ignore: (FoodCo, engages, suppliers to improve labor conditions)
+
+18.  
+- Triple: (Company, conceals, knowledge of human rights abuses)  
+- To look for: (EnergyGroup, conceals, reports of forced evictions linked to projects)  
+- To ignore: (EnergyGroup, reports, human rights concerns transparently)
+
+19.  
+- Triple: (Company, fails to engage, with civil society on human rights issues)  
+- To look for: (FashionBrand, fails to engage, NGOs monitoring labor rights)  
+- To ignore: (FashionBrand, partners, with NGOs on worker welfare)
+
+20.  
+- Triple: (Company, supports, government policies enabling human rights abuses)  
+- To look for: (TelecomCo, supports, government censorship suppressing freedom of expression)  
+- To ignore: (TelecomCo, advocates, for internet freedom and privacy)
+
+---
+
+# Patterns 21–30: UN Global Compact Principle Three – Freedom of Association and Collective Bargaining
+
+21.  
+- Triple: (Company, interferes with, formation of trade unions)  
+- To look for: (AutoParts Inc, interferes with, workers’ attempts to form unions)  
+- To ignore: (AutoParts Inc, respects, workers’ right to unionize)
+
+22.  
+- Triple: (Company, intimidates/threatens, union members or representatives)  
+- To look for: (TextileCo, intimidates, union leaders with dismissal threats)  
+- To ignore: (TextileCo, protects, union representatives from retaliation)
+
+23.  
+- Triple: (Company, refuses to recognize, workers’ representative organizations)  
+- To look for: (FoodProcessing Ltd, refuses to recognize, legally established unions)  
+- To ignore: (FoodProcessing Ltd, negotiates, collective agreements with unions)
+
+24.  
+- Triple: (Company, penalizes, employees for participating in collective bargaining)  
+- To look for: (RetailChain, penalizes, employees for attending union meetings)  
+- To ignore: (RetailChain, allows, paid leave for union activities)
+
+25.  
+- Triple: (Company, restricts, freedom of expression on union matters)  
+- To look for: (ConstructionCo, restricts, workers’ discussion of union issues)  
+- To ignore: (ConstructionCo, permits, union notices on bulletin boards)
+
+26.  
+- Triple: (Company, delays, collective bargaining negotiations unjustifiably)  
+- To look for: (Logistics Ltd, delays, bargaining talks without valid reasons)  
+- To ignore: (Logistics Ltd, schedules, bargaining sessions in good faith)
+
+27.  
+- Triple: (Company, fails to provide, necessary information for meaningful bargaining)  
+- To look for: (MiningCo, fails to provide, financial data to union negotiators)  
+- To ignore: (MiningCo, shares, relevant data with worker representatives)
+
+28.  
+- Triple: (Company, discriminates against, union members in hiring or promotion)  
+- To look for: (Electronics Inc, discriminates against, union members in promotions)  
+- To ignore: (Electronics Inc, promotes, employees based on merit regardless of union status)
+
+29.  
+- Triple: (Company, obstructs, collection of union dues on premises)  
+- To look for: (RetailGroup, obstructs, union dues collection at workplace)  
+- To ignore: (RetailGroup, allows, union dues collection on site)
+
+30.  
+- Triple: (Company, fails to provide, facilities for union activities)  
+- To look for: (Factory Ltd, fails to provide, office space for union meetings)  
+- To ignore: (Factory Ltd, allocates, meeting rooms for union use)
+
+---
+
+# Patterns 31–40: UN Global Compact Principle Four – Elimination of Forced and Compulsory Labour
+
+31.  
+- Triple: (Company, uses, forced or compulsory labour)  
+- To look for: (AgroFarm, uses, forced labour in harvesting operations)  
+- To ignore: (AgroFarm, employs, workers under voluntary contracts)
+
+32.  
+- Triple: (Company, confiscates, workers’ identity or travel documents)  
+- To look for: (ConstructionCo, confiscates, migrant workers’ passports)  
+- To ignore: (ConstructionCo, returns, identity documents upon request)
+
+33.  
+- Triple: (Company, requires, deposits or financial guarantees from workers)  
+- To look for: (TextileWorks, requires, deposits from employees as employment condition)  
+- To ignore: (TextileWorks, does not require, any deposits from workers)
+
+34.  
+- Triple: (Company, imposes, excessive or forced overtime without consent)  
+- To look for: (Manufacture Ltd, imposes, forced overtime under threat of dismissal)  
+- To ignore: (Manufacture Ltd, offers, voluntary overtime with compensation)
+
+35.  
+- Triple: (Company, engages, in debt bondage practices)  
+- To look for: (FishingCo, engages, workers in debt bondage through inflated fees)  
+- To ignore: (FishingCo, pays, fair wages without deductions)
+
+36.  
+- Triple: (Company, restricts, freedom of movement of workers)  
+- To look for: (MiningCorp, restricts, workers’ ability to leave worksite)  
+- To ignore: (MiningCorp, allows, workers to leave premises freely)
+
+37.  
+- Triple: (Company, uses, physical or psychological violence to control workers)  
+- To look for: (Factory Ltd, uses, threats and violence against employees)  
+- To ignore: (Factory Ltd, enforces, workplace rules through dialogue)
+
+38.  
+- Triple: (Company, hires, prisoners without consent or adequate protections)  
+- To look for: (Prison Industries, hires, prisoners without voluntary consent)  
+- To ignore: (Prison Industries, employs, prisoners with consent and safeguards)
+
+39.  
+- Triple: (Company, fails to monitor, supply chain for forced labour risks)  
+- To look for: (RetailGroup, fails to monitor, subcontractors for forced labour)  
+- To ignore: (RetailGroup, audits, suppliers regularly for labour compliance)
+
+40.  
+- Triple: (Company, charges, recruitment fees to workers)  
+- To look for: (Recruitment Agency, charges, excessive fees to migrant workers)  
+- To ignore: (Recruitment Agency, does not charge, workers any fees)
+
+---
+
+# Patterns 41–50: UN Global Compact Principle Five – Effective Abolition of Child Labour
+
+41.  
+- Triple: (Company, employs, children under minimum legal age)  
+- To look for: (FarmCo, employs, children aged 12 in hazardous work)  
+- To ignore: (FarmCo, employs, youth above legal minimum age)
+
+42.  
+- Triple: (Company, fails to verify, age of workers during recruitment)  
+- To look for: (TextileWorks, fails to verify, age of new hires)  
+- To ignore: (TextileWorks, uses, age verification documents)
+
+43.  
+- Triple: (Company, tolerates, worst forms of child labour in supply chain)  
+- To look for: (FoodCorp, tolerates, child trafficking in supplier farms)  
+- To ignore: (FoodCorp, terminates, contracts with suppliers using child labour)
+
+44.  
+- Triple: (Company, fails to provide, remediation or alternatives for child workers)  
+- To look for: (MiningCo, fails to provide, schooling or support for removed child workers)  
+- To ignore: (MiningCo, supports, education programs for former child workers)
+
+45.  
+- Triple: (Company, uses, child labour in hazardous or exploitative conditions)  
+- To look for: (BrickWorks, uses, children in dangerous kiln operations)  
+- To ignore: (BrickWorks, prohibits, hazardous work for minors)
+
+46.  
+- Triple: (Company, ignores, national and international child labour laws)  
+- To look for: (ClothingBrand, ignores, ILO child labour conventions)  
+- To ignore: (ClothingBrand, complies with, national child labour regulations)
+
+47.  
+- Triple: (Company, fails to exercise, due diligence over subcontractors regarding child labour)  
+- To look for: (ElectronicsCo, fails to exercise, due diligence on subcontractors)  
+- To ignore: (ElectronicsCo, audits, subcontractors for child labour risks)
+
+48.  
+- Triple: (Company, discriminates against, young workers legally employed)  
+- To look for: (RetailGroup, discriminates against, workers aged 16-17)  
+- To ignore: (RetailGroup, treats, young workers equally)
+
+49.  
+- Triple: (Company, fails to collaborate, with stakeholders to combat child labour)  
+- To look for: (FoodCo, fails to collaborate, with NGOs on child labour issues)  
+- To ignore: (FoodCo, partners, with local organizations to eliminate child labour)
+
+50.  
+- Triple: (Company, uses, deceptive recruitment practices leading to child labour)  
+- To look for: (Recruitment Agency, uses, false promises to recruit child workers)  
+- To ignore: (Recruitment Agency, provides, clear job descriptions and age requirements)
+
+---
+
+# Patterns 51–60: UN Global Compact Principle Six – Elimination of Discrimination in Employment and Occupation
+
+51.  
+- Triple: (Company, discriminates against, employees based on race or ethnicity)  
+- To look for: (TechFirm, discriminates against, minority ethnic groups in hiring)  
+- To ignore: (TechFirm, promotes, diversity in recruitment)
+
+52.  
+- Triple: (Company, denies, promotion opportunities due to gender)  
+- To look for: (Manufacture Ltd, denies, women promotion to management roles)  
+- To ignore: (Manufacture Ltd, promotes, employees based on merit regardless of gender)
+
+53.  
+- Triple: (Company, applies, unequal pay for equal work)  
+- To look for: (RetailChain, applies, lower wages to female employees than males)  
+- To ignore: (RetailChain, maintains, equal pay policies)
+
+54.  
+- Triple: (Company, excludes, persons with disabilities from employment)  
+- To look for: (ServiceCo, excludes, disabled applicants from hiring)  
+- To ignore: (ServiceCo, provides, reasonable accommodations for disabled workers)
+
+55.  
+- Triple: (Company, enforces, dress codes or policies that discriminate)  
+- To look for: (BankingCorp, enforces, dress codes disadvantaging religious minorities)  
+- To ignore: (BankingCorp, allows, religious dress in workplace)
+
+56.  
+- Triple: (Company, fails to provide, grievance mechanisms for discrimination complaints)  
+- To look for: (Logistics Ltd, fails to provide, channels for discrimination grievances)  
+- To ignore: (Logistics Ltd, operates, anti-discrimination complaint procedures)
+
+57.  
+- Triple: (Company, uses, recruitment criteria that indirectly exclude certain groups)  
+- To look for: (ConsultingFirm, uses, language requirements excluding minorities)  
+- To ignore: (ConsultingFirm, bases, recruitment on job-relevant skills)
+
+58.  
+- Triple: (Company, retaliates against, employees raising discrimination concerns)  
+- To look for: (RetailGroup, retaliates against, workers reporting discrimination)  
+- To ignore: (RetailGroup, protects, whistleblowers from retaliation)
+
+59.  
+- Triple: (Company, fails to train, managers on non-discrimination policies)  
+- To look for: (Manufacture Inc, fails to train, supervisors on diversity and inclusion)  
+- To ignore: (Manufacture Inc, conducts, regular anti-discrimination training)
+
+60.  
+- Triple: (Company, excludes, certain groups from training or development opportunities)  
+- To look for: (TechCo, excludes, older workers from skills training)  
+- To ignore: (TechCo, offers, training to all employees equally)
+
+---
+
+# Patterns 61–70: UN Global Compact Principle Seven – Precautionary Approach to Environment
+
+61.  
+- Triple: (Company, proceeds with, potentially harmful activities despite scientific uncertainty)  
+- To look for: (ChemCorp, proceeds with, chemical discharge despite unclear environmental impact)  
+- To ignore: (ChemCorp, suspends, operations pending environmental studies)
+
+62.  
+- Triple: (Company, fails to adopt, precautionary measures in environmental risk areas)  
+- To look for: (EnergyCo, fails to adopt, spill prevention measures in sensitive ecosystems)  
+- To ignore: (EnergyCo, implements, strict environmental safeguards)
+
+63.  
+- Triple: (Company, ignores, early warnings of environmental harm)  
+- To look for: (MiningCorp, ignores, NGO reports on water contamination risks)  
+- To ignore: (MiningCorp, investigates, reported environmental concerns promptly)
+
+64.  
+- Triple: (Company, lacks, governance structures for environmental risk management)  
+- To look for: (AgroFirm, lacks, environmental risk oversight committee)  
+- To ignore: (AgroFirm, has, environmental risk management team)
+
+65.  
+- Triple: (Company, fails to communicate, environmental risks transparently to stakeholders)  
+- To look for: (OilCo, fails to communicate, potential spill risks to local communities)  
+- To ignore: (OilCo, holds, public consultations on environmental risks)
+
+66.  
+- Triple: (Company, neglects, stakeholder engagement on environmental uncertainties)  
+- To look for: (PaperMill, neglects, community input on pollution concerns)  
+- To ignore: (PaperMill, organizes, stakeholder workshops on environmental issues)
+
+67.  
+- Triple: (Company, does not support, independent scientific research on environmental impacts)  
+- To look for: (Chemicals Ltd, does not support, third-party studies on emissions)  
+- To ignore: (Chemicals Ltd, funds, independent environmental research)
+
+68.  
+- Triple: (Company, prioritizes, economic gains over environmental precaution)  
+- To look for: (EnergyGroup, prioritizes, profits over precautionary environmental measures)  
+- To ignore: (EnergyGroup, balances, economic and environmental considerations)
+
+69.  
+- Triple: (Company, fails to apply, precautionary approach in product development)  
+- To look for: (PharmaCo, releases, new chemical without adequate environmental testing)  
+- To ignore: (PharmaCo, conducts, environmental impact assessments before launch)
+
+70.  
+- Triple: (Company, disregards, international guidelines on precautionary environmental management)  
+- To look for: (MiningCorp, disregards, Rio Declaration Principle 15 in operations)  
+- To ignore: (MiningCorp, aligns, policies with international environmental standards)
+
+---
+
+# Patterns 71–80: UN Global Compact Principle Eight – Environmental Responsibility and Sustainable Development
+
+71.  
+- Triple: (Company, fails to integrate, sustainability into corporate strategy)  
+- To look for: (RetailGroup, fails to integrate, environmental sustainability in business plans)  
+- To ignore: (RetailGroup, includes, sustainability goals in corporate strategy)
+
+72.  
+- Triple: (Company, exceeds, environmental regulatory limits without mitigation)  
+- To look for: (Factory Ltd, exceeds, pollution limits without corrective action)  
+- To ignore: (Factory Ltd, complies with, all environmental regulations)
+
+73.  
+- Triple: (Company, neglects, sustainable production and consumption programs)  
+- To look for: (FoodCo, neglects, programs to reduce packaging waste)  
+- To ignore: (FoodCo, implements, waste reduction initiatives)
+
+74.  
+- Triple: (Company, fails to collaborate, with suppliers on environmental performance)  
+- To look for: (ElectronicsCo, fails to collaborate, with suppliers on eco-design)  
+- To ignore: (ElectronicsCo, works, with suppliers to improve sustainability)
+
+75.  
+- Triple: (Company, does not set, measurable environmental targets)  
+- To look for: (EnergyCorp, does not set, clear sustainability indicators)  
+- To ignore: (EnergyCorp, publishes, annual environmental performance metrics)
+
+76.  
+- Triple: (Company, lacks, transparency in environmental reporting)  
+- To look for: (MiningGroup, lacks, public disclosure of environmental impacts)  
+- To ignore: (MiningGroup, issues, sustainability reports annually)
+
+77.  
+- Triple: (Company, fails to engage, stakeholders on environmental issues)  
+- To look for: (PaperMill, fails to engage, local communities on pollution)  
+- To ignore: (PaperMill, holds, public forums on environmental topics)
+
+78.  
+- Triple: (Company, ignores, social equity in environmental initiatives)  
+- To look for: (AgroFirm, ignores, impacts on vulnerable populations in sustainability plans)  
+- To ignore: (AgroFirm, includes, social considerations in environmental programs)
+
+79.  
+- Triple: (Company, does not implement, environmental management systems)  
+- To look for: (Manufacture Inc, does not implement, EMS to manage impacts)  
+- To ignore: (Manufacture Inc, certified, to ISO 14001 environmental standards)
+
+80.  
+- Triple: (Company, fails to pursue, continuous environmental improvement)  
+- To look for: (RetailChain, fails to improve, energy efficiency over time)  
+- To ignore: (RetailChain, reduces, carbon footprint annually)
+
+---
+
+# Patterns 81–90: UN Global Compact Principle Nine – Environmentally Sound Technologies
+
+81.  
+- Triple: (Company, fails to adopt, environmentally sound technologies)  
+- To look for: (ChemCo, fails to adopt, cleaner production methods)  
+- To ignore: (ChemCo, invests, in pollution prevention technologies)
+
+82.  
+- Triple: (Company, uses, outdated or polluting technologies without mitigation)  
+- To look for: (TextileMill, uses, dyeing processes with high toxic emissions)  
+- To ignore: (TextileMill, upgrades, to low-impact dyeing technologies)
+
+83.  
+- Triple: (Company, neglects, life cycle assessment in product design)  
+- To look for: (ElectronicsCo, neglects, LCA in new product development)  
+- To ignore: (ElectronicsCo, applies, LCA to evaluate environmental impacts)
+
+84.  
+- Triple: (Company, fails to redirect, R&D towards sustainable technologies)  
+- To look for: (AutoParts Inc, fails to redirect, R&D to eco-friendly materials)  
+- To ignore: (AutoParts Inc, invests, in green technology research)
+
+85.  
+- Triple: (Company, does not integrate, environmental criteria in supplier selection)  
+- To look for: (RetailGroup, does not integrate, environmental standards in sourcing)  
+- To ignore: (RetailGroup, requires, suppliers to meet environmental criteria)
+
+86.  
+- Triple: (Company, fails to provide, transparent information on environmental technology benefits)  
+- To look for: (EnergyCo, fails to disclose, benefits of new clean tech to stakeholders)  
+- To ignore: (EnergyCo, publishes, reports on environmental technology impacts)
+
+87.  
+- Triple: (Company, neglects, collaboration with industry on technology diffusion)  
+- To look for: (Manufacture Ltd, neglects, partnerships to share best environmental practices)  
+- To ignore: (Manufacture Ltd, participates, in industry eco-innovation forums)
+
+88.  
+- Triple: (Company, fails to conduct, environmental technology assessments)  
+- To look for: (PharmaCo, fails to conduct, EnTA before adopting new processes)  
+- To ignore: (PharmaCo, performs, environmental technology assessments)
+
+89.  
+- Triple: (Company, ignores, opportunities to reuse or recycle materials)  
+- To look for: (PackagingCo, ignores, reuse of waste materials in production)  
+- To ignore: (PackagingCo, implements, recycling programs)
+
+90.  
+- Triple: (Company, fails to reduce, worker exposure to hazardous substances)  
+- To look for: (ChemicalPlant, fails to reduce, employee exposure to toxic chemicals)  
+- To ignore: (ChemicalPlant, provides, protective equipment and ventilation)
+
+---
+
+# Patterns 91–100: UN Global Compact Principle Ten – Anti-Corruption
+
+91.  
+- Triple: (Company, offers/pays, bribes to government officials)  
+- To look for: (BuildIt Ltd, pays, bribes to secure construction permits)  
+- To ignore: (BuildIt Ltd, complies with, transparent bidding processes)
+
+92.  
+- Triple: (Company, solicits, kickbacks from suppliers)  
+- To look for: (RetailGroup, solicits, kickbacks from product vendors)  
+- To ignore: (RetailGroup, enforces, fair procurement policies)
+
+93.  
+- Triple: (Company, engages in, extortion of employees or partners)  
+- To look for: (FinanceCo, extorts, payments from subcontractors under threat)  
+- To ignore: (FinanceCo, maintains, ethical supplier relations)
+
+94.  
+- Triple: (Company, lacks, formal anti-corruption policies)  
+- To look for: (TechFirm, lacks, anti-corruption compliance program)  
+- To ignore: (TechFirm, implements, comprehensive anti-corruption policies)
+
+95.  
+- Triple: (Company, fails to report, anti-corruption efforts transparently)  
+- To look for: (EnergyCorp, fails to report, anti-corruption measures in annual disclosures)  
+- To ignore: (EnergyCorp, publishes, anti-corruption progress in Communication on Progress)
+
+96.  
+- Triple: (Company, participates in, collusive practices to fix prices)  
+- To look for: (PharmaCo, participates in, price-fixing cartel)  
+- To ignore: (PharmaCo, competes, fairly in the marketplace)
+
+97.  
+- Triple: (Company, uses, agents or intermediaries to conceal corrupt payments)  
+- To look for: (MiningGroup, uses, third parties to channel bribes)  
+- To ignore: (MiningGroup, monitors, agent activities for compliance)
+
+98.  
+- Triple: (Company, retaliates against, whistleblowers reporting corruption)  
+- To look for: (RetailChain, retaliates against, employees exposing bribery)  
+- To ignore: (RetailChain, protects, whistleblowers from retaliation)
+
+99.  
+- Triple: (Company, fails to engage, in collective anti-corruption initiatives)  
+- To look for: (Logistics Ltd, fails to engage, with industry anti-corruption platforms)  
+- To ignore: (Logistics Ltd, participates, in multi-stakeholder anti-corruption efforts)
+
+100.  
+- Triple: (Company, abuses, entrusted power for private gain)  
+- To look for: (Government-Owned Enterprise, abuses, power to award contracts to relatives)  
+- To ignore: (Government-Owned Enterprise, follows, transparent procurement rules)
+
+---
+
+This completes the 100 extraction patterns aligned with the UN Global Compact Principles 1 through 10, designed to identify potential violations or risks in news articles with clear examples and counter-examples.
