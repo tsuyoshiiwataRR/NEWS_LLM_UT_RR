@@ -1,0 +1,40 @@
+## Principle Nine: Environment
+
+**Core Focus**: Businesses should promote the development and dissemination of **environmentally friendly technologies**.
+
+### Definition of Environmentally Sound Technologies
+- Defined in **Agenda 21** of the **Rio Declaration**.
+- Characteristics include:
+  - Protecting the environment.
+  - Being less polluting.
+  - Utilizing resources sustainably.
+  - Enhancing waste recycling.
+  - Managing residual wastes more acceptably than previous technologies.
+
+### Key Benefits of Environmentally Friendly Technologies
+- **Resource Efficiency**: Reduces raw material usage, leading to increased operational efficiency.
+- **Innovation and Competitiveness**: Fosters technology innovation, creating new business opportunities and enhancing overall competitiveness.
+- **Long-term Benefits**: Technologies that utilize materials efficiently yield economic and environmental advantages.
+
+### Actions Companies Can Take
+
+#### Basic Level Actions
+- **Process Improvement**:
+  - Change manufacturing techniques.
+  - Alter input materials.
+  - Modify product design or components.
+  - Reuse materials on-site.
+
+#### Strategic Level Approaches
+- **Policy Development**:
+  - Establish a corporate policy on the use of environmentally sound technologies.
+- **Stakeholder Engagement**:
+  - Provide information to stakeholders demonstrating the environmental performance and benefits of these technologies.
+- **Research and Development**:
+  - Refocus R&D towards **design for sustainability**.
+  - Utilize **Life Cycle Assessment (LCA)** in developing new technologies and products.
+  - Implement **Environmental Technology Assessments (EnTA)**.
+- **Investment and Sourcing**:
+  - Review investment criteria and sourcing policies to ensure minimum environmental criteria in tenders.
+- **Collaboration**:
+  - Partner with industry peers to ensure access to the **best available technology** for all organizations.

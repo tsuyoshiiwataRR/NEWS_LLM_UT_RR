@@ -1,0 +1,70 @@
+# UN Global Compact Principle Five: Labour – Effective Abolition of Child Labour
+
+Principle Five requires businesses to uphold the **effective abolition of child labour**, defined as exploitative work that violates children’s human rights and international standards. This principle distinguishes child labour from acceptable youth employment or student work, emphasizing protection based on age and developmental stage.
+
+---
+
+## Key Definitions and Standards
+
+- **Child labour**: Work that is exploitative, harmful, or interferes with education and development of children under 18 years.
+- **Child**: All girls and boys under 18 years of age.
+- **International Labour Organization (ILO) Conventions**:
+  - **Minimum Age Convention No. 138**: Sets minimum age for employment, generally **not less than 15 years** (14 in developing countries, 12 for light work).
+  - **Worst Forms of Child Labour Convention No. 182**: Requires priority elimination of the worst forms of child labour for all under 18.
+
+### Minimum Age for Admission to Employment or Work
+
+| Type of Work    | Developed Countries | Developing Countries |
+|-----------------|--------------------|---------------------|
+| Light Work      | 13 years           | 12 years            |
+| Regular Work    | 15 years           | 14 years            |
+| Hazardous Work  | 18 years           | 18 years            |
+
+### Worst Forms of Child Labour (ILO Convention 182)
+
+- All forms of slavery, trafficking, debt bondage, forced labour, and use in armed conflict
+- Use of children in prostitution, pornography, or illicit activities (e.g., drug trafficking)
+- Work likely to harm health, safety, or morals of the child
+
+---
+
+## Business Obligations and Implementation Guidance
+
+### Identification and Prevention
+
+- **Develop awareness** of child labour causes and consequences within the business and supply chains.
+- **Identify risks** in countries, sectors, and supply chains, including less visible cases in developed countries.
+- Use **verifiable age verification mechanisms** in recruitment.
+- Adhere to **national laws** and, where insufficient, apply **ILO standards**.
+- Avoid blanket bans on hiring under-18s to allow legal youth employment opportunities.
+- Implement **policies and procedures** to detect and prevent child labour.
+- Exercise **due diligence** over subcontractors, suppliers, and affiliates to combat child labour.
+
+### Remediation and Support
+
+- When child labour is found:
+  - **Remove children from work** safely.
+  - Provide **viable alternatives**, such as school enrollment and family income support.
+  - Avoid actions that push children into worse exploitation.
+- Ensure wages for adults consider family needs where collective bargaining or minimum wages are absent.
+
+### Community and Industry Engagement
+
+- Collaborate with other companies, trade unions, law enforcement, and labour inspectorates to develop **industry-wide approaches**.
+- Participate in or establish **task forces or committees** on child labour at local, state, or national levels.
+- Support or help design:
+  - Educational and vocational training programs for working children.
+  - Skills training for parents of working children.
+  - Supplementary health, nutrition, and medical care programs for children removed from hazardous work.
+
+---
+
+## Why Companies Should Care
+
+- Association with child labour damages **reputation, brand image, profits, and stock value**, especially for transnational companies.
+- Child labour harms children’s **physical, mental, social, and educational development**, perpetuating cycles of poverty and under-skilled workforces.
+- Upholding Principle Five aligns with respecting children’s **distinct human rights** and contributes to sustainable economic development.
+
+---
+
+By meeting these requirements, businesses demonstrate commitment to the **effective abolition of child labour** within their operations and spheres of influence, consistent with international human rights and labour standards.

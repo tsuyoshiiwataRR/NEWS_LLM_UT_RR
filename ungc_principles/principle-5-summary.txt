@@ -1,0 +1,49 @@
+# Principle Five: Labour
+
+**Core Focus**: Businesses should uphold the effective abolition of **child labour**, recognizing it as a violation of human rights.
+
+## Definition of Child Labour
+- **Child Labour**: Exploitative work that deprives children of their childhood, dignity, and education.
+- **Distinction**: Child labour differs from **youth employment** or **student work**; it is defined by international standards.
+
+## International Standards
+- **ILO Conventions**:
+  - **Minimum Age Convention No. 138**: Establishes minimum age for employment.
+  - **Worst Forms of Child Labour Convention No. 182**: Prioritizes the elimination of the worst forms of child labour for all children under 18.
+
+### Minimum Age for Admission to Employment or Work
+| Type of Work      | Developed Countries | Developing Countries |
+|-------------------|---------------------|----------------------|
+| Light Work        | 13 Years            | 12 Years             |
+| Regular Work      | 15 Years            | 14 Years             |
+| Hazardous Work    | 18 Years            | 18 Years             |
+
+### Worst Forms of Child Labour (Convention No. 182)
+- **Includes**:
+  - Slavery and trafficking
+  - Prostitution and pornography
+  - Illicit activities (e.g., drug trafficking)
+  - Work harmful to health, safety, or morals
+
+## Business Responsibilities
+- **Reputation Risk**: Association with child labour can damage a company's brand and financial performance.
+- **Human Rights**: Children have distinct rights, including protection from economic exploitation and access to education.
+
+## Actionable Guidance for Companies
+
+### In the Workplace
+- **Awareness**: Identify regions and sectors with higher risks of child labour.
+- **Compliance**: Adhere to national laws and international standards regarding minimum age.
+- **Age Verification**: Implement mechanisms for verifying the age of employees.
+- **Policy Development**: Avoid blanket bans on hiring under-18s; instead, focus on legal age compliance.
+- **Removal and Support**: If child labour is found, remove children from work and provide alternatives (e.g., education).
+- **Influence Supply Chains**: Encourage subcontractors and suppliers to combat child labour.
+- **Wage Consideration**: Ensure adult wages meet family needs.
+
+### In the Community
+- **Collaboration**: Partner with other companies and organizations to address child labour collectively.
+- **Task Forces**: Participate in local or national committees focused on child labour.
+- **Support Programs**: Design educational and vocational training for working children and their families.
+- **Health Initiatives**: Launch health and nutrition programs for children removed from hazardous work.
+
+By following these guidelines, companies can contribute to the **abolition of child labour** within their sphere of influence.

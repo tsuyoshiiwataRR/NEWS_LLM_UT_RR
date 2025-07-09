@@ -1,0 +1,83 @@
+# UN Global Compact Principle One: Human Rights
+
+Businesses should support and respect the protection of internationally proclaimed human rights by avoiding infringement and addressing adverse impacts, while also taking voluntary actions to promote human rights.
+
+---
+
+## Core Focus  
+Businesses have a **responsibility to respect human rights** by exercising due diligence to avoid causing or contributing to human rights abuses and to address any adverse impacts linked to their operations. Beyond this, businesses are encouraged to **actively support and promote human rights** through their core activities, social investments, advocacy, and partnerships.
+
+---
+
+## Key Requirements and Obligations
+
+### Respecting Human Rights  
+- **Avoid infringing human rights** and address adverse impacts caused or contributed to by the business.  
+- Pay special attention to **vulnerable groups** (e.g., women, children, indigenous peoples, migrant workers, persons with disabilities, older persons).  
+- Comply with **all applicable laws** and respect **internationally recognized human rights standards**, including:  
+  - The **International Bill of Human Rights**  
+  - Core **International Labour Organization (ILO) Conventions**  
+- In cases of conflict between national law and international standards, seek ways to honor the principles of internationally recognized human rights.  
+- Responsibility to respect human rights applies **regardless of governance context**, including in weak governance or conflict-affected areas.
+
+### Determining Scope of Responsibility  
+Businesses should assess:  
+- The **country and local context** for human rights risks, using sources such as NGOs, governments, trade unions, and risk assessment tools (e.g., Danish Institute Country Risk assessments, Maplecroft Maps).  
+- Whether the company is **causing or contributing** to adverse impacts through its own activities (production, employment, security, lobbying).  
+- Whether the company is **linked to impacts through relationships** with governments, partners, suppliers, or other non-State actors, avoiding complicity in abuses.
+
+### Policy Commitment  
+- Adopt a **public human rights policy**, approved by the board or equivalent, either standalone or integrated into broader sustainability policies.  
+- The policy must:  
+  - Express the company’s commitment to respect human rights.  
+  - Define expectations for personnel, business partners, and others linked to operations.  
+  - Be communicated internally and externally and be publicly available.  
+- Develop the policy with **internal/external human rights expertise** and stakeholder engagement.  
+- Embed the policy into operational procedures and business functions.
+
+### Human Rights Due Diligence  
+- Conduct an **ongoing process** to:  
+  - Identify, prevent, mitigate, and account for actual or potential negative human rights impacts caused or linked to the business.  
+- Due diligence should be:  
+  - Proportionate to the size, risk, and context of the business.  
+  - Informed by internal or independent external expertise.  
+  - Inclusive of meaningful consultation with potentially affected stakeholders.  
+- Key elements include:  
+  - **Impact assessments** to understand risks and refine mitigation plans.  
+  - **Integration** of human rights across all business functions and leadership commitment.  
+  - **Taking action** to cease or prevent impacts caused or contributed to, and using leverage to mitigate linked impacts.  
+  - **Tracking performance** through monitoring, audits, and stakeholder feedback, including confidential reporting mechanisms.  
+  - **Communicating and reporting** on human rights performance regularly, with transparency and accessibility (e.g., annual Communication on Progress).  
+  - **Remediation mechanisms** to address adverse impacts caused or contributed to, including effective grievance processes for employees, communities, and others.
+
+---
+
+## Supporting Human Rights  
+- Businesses are encouraged to **make positive contributions** to human rights beyond avoiding harm, through:  
+  - Core business activities aligned with UN goals.  
+  - Strategic social investment and philanthropy.  
+  - Advocacy and public policy engagement.  
+  - Partnerships and collective action.  
+- Examples of support include:  
+  - Providing **safe and healthy working conditions**.  
+  - Guaranteeing **freedom of association** and **non-discrimination**.  
+  - Avoiding **forced labor and child labor**.  
+  - Offering access to **basic health, education, and housing** where lacking.  
+  - Preventing **forcible displacement** and protecting local livelihoods.  
+  - Engaging responsibly in **public debate and policy** relevant to human rights.  
+  - Creating **inclusive market access** for vulnerable populations.  
+  - Ensuring security providers respect **international guidelines on use of force**.
+
+---
+
+## Implementation Guidance and Tools  
+- Use internationally recognized frameworks such as the **UN Guiding Principles on Business and Human Rights** for operational clarity.  
+- Employ risk assessment tools and country-specific human rights data to inform due diligence.  
+- Engage stakeholders and human rights experts in policy development and impact assessments.  
+- Integrate human rights into existing management systems and business processes.  
+- Utilize the **Global Compact’s Human Rights Supplement to Communication on Progress Guidance** for reporting.  
+- Refer to resources like **Human Rights Translated** and **Guidance on Responsible Business in Conflict-Affected & High-Risk Areas** for practical examples and conflict-sensitive approaches.
+
+---
+
+By fulfilling these requirements, businesses not only uphold fundamental human rights but also mitigate risks, enhance stakeholder trust, and contribute to sustainable development.

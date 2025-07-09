@@ -1,0 +1,42 @@
+# UN Global Compact (UNGC) Principle One: Human Rights
+
+**Core Focus**: Businesses should support and respect the protection of internationally proclaimed human rights.
+
+## Key Requirements and Obligations
+
+### Respecting Human Rights
+- **Due Diligence**: Businesses must conduct due diligence to avoid infringing on human rights and address any adverse impacts.
+- **Compliance**: Companies must comply with all applicable laws and respect internationally recognized human rights, including the **International Bill of Human Rights** and **core ILO Conventions**.
+- **Contextual Awareness**: Assess the country and local context for human rights challenges, utilizing resources from NGOs, government, and international organizations.
+- **Impact Assessment**: Identify whether the company is causing or contributing to adverse human rights impacts through its activities.
+- **Relationships Analysis**: Evaluate relationships with governments, business partners, and suppliers to avoid complicity in human rights abuses.
+
+### Policy Commitment
+- **Public Statement**: Adopt a public policy statement approved by the board, outlining the company’s commitment to respect human rights.
+- **Stakeholder Engagement**: Involve stakeholders in the development of the human rights policy.
+- **Operational Integration**: Ensure the policy is reflected in operational policies and procedures.
+
+### Human Rights Due Diligence
+- **Ongoing Process**: Implement a continuous process to identify, prevent, and mitigate negative human rights impacts.
+- **Stakeholder Consultation**: Engage with affected stakeholders during the due diligence process.
+- **Performance Tracking**: Regularly monitor and audit human rights impacts and performance.
+
+### Remediation
+- **Grievance Mechanisms**: Establish effective grievance mechanisms for stakeholders to raise concerns regarding human rights impacts.
+
+## Supporting Human Rights
+- **Core Business Activities**: Integrate support for human rights into core business functions.
+- **Social Investment**: Engage in strategic social investment and philanthropy to promote human rights.
+- **Advocacy**: Participate in public policy engagement and advocacy for human rights.
+- **Partnerships**: Collaborate with other organizations to advance human rights initiatives.
+
+## Implementation Guidance
+- **Training and Awareness**: Foster understanding of human rights among employees and management.
+- **Integration into Business Processes**: Incorporate human rights considerations into existing business practices.
+- **Communication**: Report on human rights performance and progress, ensuring transparency and accountability.
+
+## Special Considerations
+- **Vulnerable Groups**: Pay special attention to the rights of vulnerable groups, including women, children, and indigenous peoples.
+- **Context-Sensitive Practices**: Adapt practices to areas with weak governance or high human rights risks.
+
+By adhering to these principles, businesses can not only mitigate risks but also enhance their reputation, stakeholder relationships, and overall contribution to sustainable development.

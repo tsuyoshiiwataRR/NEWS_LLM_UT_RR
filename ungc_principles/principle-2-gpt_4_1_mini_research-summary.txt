@@ -1,0 +1,75 @@
+# UN Global Compact Principle Two: Human Rights – Avoiding Complicity in Human Rights Abuses
+
+Businesses must ensure they are **not complicit** in human rights abuses committed by other entities, including companies, governments, or individuals. Complicity involves knowingly facilitating, assisting, or benefiting from human rights violations, even indirectly.
+
+---
+
+## Core Requirements and Definitions
+
+- **Complicity** consists of two elements:
+  - An **act or omission** by the company (or its representatives) that helps another party carry out a human rights abuse.
+  - The company’s **knowledge** that its act or omission could facilitate the abuse.
+
+- Complicity types include:
+  - **Direct complicity:** Providing goods or services knowingly used to commit abuses.
+  - **Beneficial complicity:** Benefiting from abuses without direct assistance.
+  - **Silent complicity:** Remaining inactive or silent in the face of ongoing abuses.
+
+- The risk of complicity exists **in every sector and country**, especially where governance is weak or abuses are widespread.
+
+- Companies must respect human rights **in line with the UN Guiding Principles on Business and Human Rights (UNGPs)**, which require:
+  - Systematic **human rights due diligence** covering own operations and business relationships.
+  - Identification, prevention, and mitigation of human rights risks linked to products, operations, or services.
+
+---
+
+## Legal and Accountability Context
+
+- Many jurisdictions prohibit complicity in crimes, with potential **criminal and civil liability** for businesses.
+- International criminal law defines aiding and abetting as **knowingly providing practical assistance or encouragement** that substantially affects the commission of a crime.
+- Allegations of complicity may arise beyond legal liability, including reputational risks from media, civil society, and trade unions.
+
+---
+
+## Business Rationale for Addressing Complicity
+
+- **Globalization** exposes companies to operations in countries with poor human rights records.
+- The rise of **civil society and NGOs** increases scrutiny and advocacy on corporate human rights performance.
+- Advances in **transparency and information technology** make concealment of abuses difficult.
+- **State-owned enterprises** have additional responsibilities under international human rights law due to their government affiliation.
+
+---
+
+## Recommended Corporate Actions to Avoid Complicity
+
+### Human Rights Policy and Due Diligence
+
+- Conduct **human rights assessments** in all countries of operation or investment.
+- Develop and implement **explicit policies** protecting human rights of workers and supply chains.
+- Establish **monitoring and tracking systems** to ensure policy implementation.
+- Engage in **open dialogue with stakeholders**, including civil society organizations.
+- Use and, if possible, increase **leverage over actors committing abuses** (e.g., through collaboration or capacity building).
+- Ensure **security arrangements** (internal, contracted, or state-provided) do not contribute to abuses.
+
+### Specific Measures and Safeguards
+
+- Respect international standards on use of force, such as:
+  - **UN Basic Principles on the Use of Force and Firearms by Law Enforcement Officials**
+  - **UN Code of Conduct for Law Enforcement Officials**
+- If supporting security forces financially or materially:
+  - Establish **clear safeguards** preventing misuse.
+  - Include clauses in agreements condemning human rights violations.
+- Publicly and privately **condemn systematic and continuous human rights abuses**.
+- Conduct **human rights impact assessments** at pre-investment and post-investment stages.
+- Identify and manage **internal functional risks** in areas such as purchasing, logistics, government relations, HR, health and safety, sales, and marketing.
+- Raise internal awareness of human rights issues within the company’s sphere of influence.
+
+### Considerations for Ending Business Relationships
+
+- Evaluate potential **adverse human rights impacts** of terminating relationships with partners involved in abuses.
+
+---
+
+## Summary
+
+To comply with Principle Two, businesses must proactively identify and address risks of complicity in human rights abuses through comprehensive policies, due diligence, stakeholder engagement, and adherence to international standards. This approach reduces legal, reputational, and operational risks while supporting the broader goal of respecting and promoting human rights globally.

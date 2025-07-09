@@ -1,0 +1,46 @@
+# UN Global Compact (UNGC) Principle Nine: Environment
+
+**Core Focus**  
+Businesses should encourage the development and diffusion of **environmentally friendly technologies**.
+
+## Definition of Environmentally Sound Technologies
+- Defined in **Agenda 21** of the **Rio Declaration**.
+- Characteristics:
+  - Protect the environment.
+  - Less polluting.
+  - Use resources in a **sustainable manner**.
+  - Increase recycling of wastes and products.
+  - Handle residual wastes more acceptably than previous technologies.
+
+## Types of Environmentally Sound Technologies
+- Cleaner production processes.
+- Pollution prevention technologies.
+- End-of-pipe technologies.
+- Monitoring technologies.
+- Includes:
+  - Know-how and procedures.
+  - Goods and services.
+  - Equipment.
+  - Organizational and managerial procedures.
+
+## Benefits of Environmentally Friendly Technologies
+- **Reduced raw material usage** leading to increased efficiency.
+- Creation of **new business opportunities** and enhanced competitiveness.
+- Long-term **economic and environmental benefits** through efficient and clean material usage.
+
+## Actions Companies Can Take
+
+### Basic Level Actions
+- **Change the process** or manufacturing technique.
+- **Change input materials**.
+- **Modify product design** or components.
+- **Reuse materials** on-site.
+
+### Strategic Level Approaches
+- Establish a **corporate policy** on environmentally sound technologies.
+- Provide **stakeholder information** on environmental performance and benefits.
+- Refocus **research and development** towards ‘design for sustainability’.
+- Utilize **life cycle assessment (LCA)** in new technology and product development.
+- Conduct **Environmental Technology Assessments (EnTA)**.
+- Review **investment criteria** and sourcing policies to ensure minimum environmental standards in tenders.
+- Collaborate with **industry partners** to ensure access to ‘best available technology’.

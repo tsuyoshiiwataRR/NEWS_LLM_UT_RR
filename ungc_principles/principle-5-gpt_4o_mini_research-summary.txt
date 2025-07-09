@@ -1,0 +1,49 @@
+# UN Global Compact (UNGC) Principle Five: Labour
+
+**Core Focus**: Businesses should uphold the effective abolition of **child labour**.
+
+## Definition of Child Labour
+- **Child labour** is distinct from **youth employment** or **student work** and is a violation of human rights.
+- Defined by international instruments, it encompasses all girls and boys under **18 years of age**.
+- Acceptable work varies by age and development stage, with specific guidelines provided by ILO conventions.
+
+## Minimum Age for Admission to Employment or Work
+| Type of Work       | Developed Countries | Developing Countries |
+|--------------------|---------------------|----------------------|
+| Light Work         | 13 Years            | 12 Years             |
+| Regular Work       | 15 Years            | 14 Years             |
+| Hazardous Work     | 18 Years            | 18 Years             |
+
+## Worst Forms of Child Labour (ILO Convention No. 182)
+- **All forms of slavery** (trafficking, debt bondage, forced labour, use in armed conflict)
+- **Prostitution and pornography**
+- **Illicit activities** (drug production and trafficking)
+- **Harmful work** (endangering health, safety, or morals)
+
+## Importance for Companies
+- Association with child labour can damage a company's **reputation** and **brand image**, particularly for transnational companies.
+- Child labour negatively impacts children's development and future workforce skills, leading to a cycle of poverty and under-skilled workers.
+
+## Rights of Children
+- Children have distinct rights, including protection from **economic exploitation** and dangerous work.
+- Companies must address child labour sensitively to avoid pushing children into more exploitative situations.
+
+## Actionable Guidance for Companies
+
+### In the Workplace
+- **Identify** regions and sectors with a higher likelihood of child labour.
+- **Adhere** to minimum age provisions of national laws and international standards.
+- **Implement** age verification mechanisms in recruitment.
+- **Avoid** blanket policies against hiring under-18s to not exclude eligible youth from decent work.
+- **Remove** children found in the workplace and provide viable alternatives.
+- **Influence** subcontractors and suppliers to combat child labour.
+- **Develop** mechanisms to detect child labour.
+- **Ensure** wages for adults consider family needs.
+
+### In the Community
+- **Collaborate** with other companies and organizations to address child labour industry-wide.
+- **Participate** in task forces or committees focused on child labour.
+- **Support** educational and vocational training programs for working children and their parents.
+- **Launch** health and nutrition programs for children removed from hazardous work.
+
+By following these guidelines, companies can contribute to the **abolition of child labour** within their sphere of influence.

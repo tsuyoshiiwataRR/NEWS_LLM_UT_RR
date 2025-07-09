@@ -1,0 +1,67 @@
+# UN Global Compact Principle Ten: Anti-Corruption
+
+**Core Focus:**  
+Businesses should actively work against corruption in all its forms, including extortion and bribery, by implementing robust internal policies, engaging in transparent reporting, and collaborating with external stakeholders to promote a fair and transparent global economy.
+
+---
+
+## Key Requirements and Obligations
+
+- **Avoid all forms of corruption**, including:
+  - **Bribery:** Offering or receiving any gift, loan, fee, reward, or advantage as an inducement for dishonest, illegal, or trust-breaching conduct.
+  - **Extortion:** Solicitation of bribes accompanied by threats endangering personal integrity or life.
+  - Other corrupt practices that abuse entrusted power for private gain (financial or non-financial).
+
+- **Develop and implement anti-corruption policies and concrete programs** internally and throughout supply chains.
+
+- **Engage in collective action** with peers, civil society, governments, and the UN to foster transparency and fair competition.
+
+- **Report anti-corruption efforts annually** through the UN Global Compact’s Communication on Progress (COP).
+
+---
+
+## Implementation Guidance
+
+### Internal Measures
+- Establish **formal anti-corruption policies and compliance programs** covering all business operations.
+- Ensure these policies address risks related to employees, agents, business partners, and supply chains.
+- Promote an ethical culture that discourages corrupt behavior and supports staff loyalty and integrity.
+
+### External Transparency and Reporting
+- Disclose anti-corruption activities and progress in the **annual Communication on Progress (COP)**.
+- Share best practices and case studies to contribute to collective learning and improvement.
+
+### Collective Action
+- Participate in multi-stakeholder initiatives to:
+  - Scale up anti-corruption efforts.
+  - Level the playing field for fair competition.
+  - Mitigate shared corruption risks.
+- Utilize platforms such as the **B20 Collective Action Hub** to:
+  - Create company profiles.
+  - Propose and join anti-corruption projects.
+  - Access resources and collaborate with partners.
+- Sign the **“Anti-corruption Call to Action”** to publicly commit to advancing anti-corruption governance and sustainable economic development.
+
+---
+
+## Relevant Standards and Frameworks
+
+- **UN Convention Against Corruption (UNCAC):** The primary global legal instrument underpinning Principle Ten.
+- **Transparency International’s Definitions:**
+  - Corruption as abuse of entrusted power for private gain.
+  - Bribery and extortion definitions guiding corporate policies.
+- **OECD Guidelines for Multinational Enterprises:** Defines extortion and bribery, informing corporate compliance frameworks.
+- **Transparency International’s Business Principles for Countering Bribery:** Provides detailed guidance on anti-bribery measures.
+
+---
+
+## Business Risks Addressed
+
+- **Legal risks:** Corruption is illegal in most jurisdictions, including extraterritorial application.
+- **Reputational risks:** Allegations or findings of corruption can severely damage brand and stakeholder trust.
+- **Financial costs:** Corruption undermines business performance and diverts resources from sustainable development.
+- **Internal trust erosion:** Corruption damages employee loyalty and ethical culture.
+
+---
+
+By fulfilling these requirements, businesses demonstrate commitment to ethical conduct, reduce exposure to corruption-related risks, and contribute to a more transparent and sustainable global economy.

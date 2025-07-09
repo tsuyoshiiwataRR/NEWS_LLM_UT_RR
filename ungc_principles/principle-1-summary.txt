@@ -1,0 +1,44 @@
+# Principle One: Human Rights
+
+Businesses should **support and respect** the protection of internationally proclaimed human rights.
+
+## Core Focus
+This principle emphasizes the responsibility of businesses to **respect** human rights and to take proactive steps to **support** them.
+
+## Key Requirements
+
+### Respecting Human Rights
+- **Due Diligence**: Businesses must conduct due diligence to avoid infringing on human rights and address any adverse impacts.
+- **Compliance**: Adhere to all applicable laws and respect internationally recognized human rights, including the **International Bill of Human Rights** and **ILO Conventions**.
+- **Contextual Awareness**: Assess the local context for human rights challenges and adjust policies accordingly.
+- **Impact Assessment**: Identify potential human rights impacts from business activities and relationships.
+- **Policy Commitment**: Adopt a public policy statement on human rights, approved by the board, outlining expectations for personnel and partners.
+- **Human Rights Due Diligence**: Implement ongoing processes to identify, prevent, and mitigate negative human rights impacts.
+
+### Supporting Human Rights
+- **Core Business Activities**: Integrate human rights considerations into business operations.
+- **Strategic Social Investment**: Engage in philanthropy that promotes human rights.
+- **Advocacy**: Participate in public policy engagement to support human rights.
+- **Partnerships**: Collaborate with other organizations to advance human rights initiatives.
+
+## Implementation Guidance
+
+### Determining Scope of Responsibility
+- **Contextual Factors**: Analyze the country and local context for human rights risks.
+- **Company Activities**: Evaluate whether the company causes or contributes to adverse impacts.
+- **Relationships**: Assess relationships with governments, suppliers, and partners for potential human rights risks.
+
+### Management Approach
+- **Assessing Impacts**: Regularly evaluate how business activities may affect human rights.
+- **Integration**: Embed human rights policies across all business functions.
+- **Action**: Take appropriate measures to prevent or mitigate impacts based on the company's role.
+- **Performance Tracking**: Monitor and audit human rights impacts and performance regularly.
+- **Communication**: Report on human rights performance to stakeholders, ensuring transparency and accountability.
+- **Remediation**: Establish grievance mechanisms to address adverse human rights impacts.
+
+### Fostering Respect for Human Rights
+- **Education and Awareness**: Promote understanding of human rights within the organization.
+- **Leverage Existing Practices**: Integrate human rights into existing business processes, using familiar concepts like respect and dignity.
+
+## Conclusion
+All businesses, regardless of size or sector, have a **baseline responsibility** to respect human rights, which is essential for maintaining a social license to operate and fostering positive stakeholder relationships.

@@ -1,0 +1,41 @@
+# Principle Ten: Anti-Corruption
+
+Businesses should work against **corruption** in all its forms, including **extortion** and **bribery**.
+
+## Core Focus
+The tenth principle commits UN Global Compact participants to avoid corruption and proactively develop policies and programs to address it internally and within supply chains.
+
+## Key Requirements and Obligations
+
+### Legal Framework
+- **UN Convention Against Corruption (UNCAC)**: Adopted in 2005, serves as the legal instrument for combating corruption.
+
+### Definitions
+- **Corruption**: Defined by Transparency International as "the abuse of entrusted power for private gain," encompassing both financial and non-financial advantages.
+- **Extortion**: Defined by OECD as the solicitation of bribes accompanied by threats to personal integrity or life.
+- **Bribery**: Defined by Transparency International as the offer or receipt of any advantage to induce dishonest or illegal conduct.
+
+## Importance of Anti-Corruption
+- **Trust and Confidence**: Erosion of trust among investors, customers, and the public due to business ethics scandals.
+- **Corporate Governance**: Increasing focus on anti-corruption as part of corporate sustainability and reputation management.
+- **Risks of Inaction**:
+  - **Legal Risks**: Engaging in corrupt practices can lead to legal consequences both locally and internationally.
+  - **Reputational Risks**: Companies face damage to reputation from accusations of malpractice, regardless of legal outcomes.
+  - **Financial Costs**: Corruption leads to significant economic losses, undermining business performance and public resources.
+  - **Internal Trust**: Unethical behavior can erode staff loyalty and the overall ethical culture of the organization.
+
+## Actionable Guidance for Companies
+
+### Internal Actions
+- **Implement Anti-Corruption Policies**: Establish and enforce anti-corruption programs within the organization.
+
+### External Actions
+- **Annual Reporting**: Include anti-corruption efforts in the annual **Communication on Progress**.
+- **Share Best Practices**: Submit examples and case stories to promote transparency and learning.
+
+### Collective Action
+- **Collaborate with Peers**: Join forces with industry peers and stakeholders to enhance anti-corruption efforts.
+  - Utilize the **B20 Collective Action Hub** for project proposals, partnerships, and resources.
+- **Sign the “Anti-Corruption Call to Action”**: Participate in this initiative to demonstrate commitment to integrating anti-corruption into business strategies.
+
+By adhering to these guidelines, companies can effectively combat corruption and contribute to a more transparent global economy.

@@ -1,0 +1,47 @@
+# UN Global Compact Principle Two: Human Rights
+
+**Core Focus**: Businesses must ensure they are not complicit in human rights abuses.
+
+## Definition of Complicity
+- **Complicity** involves being implicated in human rights abuses perpetrated by others, including companies, governments, or individuals.
+- The risk of complicity is heightened in areas with **weak governance** or widespread human rights violations, but exists in all sectors and countries.
+
+## Key Requirements
+- **Respect Human Rights**: Align with Global Compact Principle 1 and the UN Guiding Principles on Business and Human Rights.
+- **Avoid Complicity**: Implement systematic management approaches to human rights, including due diligence processes that cover business relationships.
+
+## Elements of Complicity
+1. **Act or Omission**: A company’s action or inaction that facilitates or legitimizes human rights abuses.
+2. **Knowledge**: The company must be aware that its actions or inactions could assist in committing human rights abuses.
+
+## Context of Allegations
+- Allegations of complicity can arise in various contexts:
+  - **Direct Complicity**: Providing goods/services known to be used for abuses.
+  - **Beneficial Complicity**: Gaining benefits from human rights abuses without direct involvement.
+  - **Silent Complicity**: Inaction in the face of systematic abuses.
+
+## Business Rationale
+- **Moral Responsibility**: Upholding human rights is ethically imperative.
+- **Growing Importance**: Human rights issues are increasingly prioritized due to:
+  - **Globalization**: Expansion into regions with poor human rights records.
+  - **Civil Society Growth**: Increased influence of NGOs and accountability organizations.
+  - **Transparency and Accountability**: Demand for ethical business practices.
+  - **Crime**: Potential complicity in international crimes.
+
+## Actionable Guidance for Companies
+- **Human Rights Assessment**: Evaluate risks in countries of operation.
+- **Explicit Policies**: Develop policies protecting human rights for employees and supply chains.
+- **Monitoring Systems**: Establish tracking mechanisms for policy implementation.
+- **Stakeholder Engagement**: Maintain open dialogue with civil society and other stakeholders.
+- **Leverage Utilization**: Use influence to mitigate human rights abuses; explore ways to increase leverage.
+- **Security Arrangements**: Ensure security practices do not contribute to human rights violations.
+
+## Recommended Actions to Avoid Complicity
+- Respect international guidelines for the use of force.
+- Establish safeguards for any support provided to security forces.
+- Condemn systematic human rights abuses publicly and privately.
+- Consult stakeholders during pre-investment and post-investment stages.
+- Raise awareness of human rights issues within the company.
+- Identify high-risk functions linked to human rights abuses.
+- Conduct human rights impact assessments for proposed investments.
+- Identify internal risks related to human rights in post-investment scenarios.
