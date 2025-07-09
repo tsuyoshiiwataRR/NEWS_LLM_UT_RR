@@ -1,0 +1,18 @@
+[project]
+name = "NEG"
+version = "0.0.1"
+readme = "README.md"
+requires-python = "~=3.8,<3.13"
+
+dependencies = [
+    "pandas",
+    "tqdm",
+    "datasets",
+    "ipywidgets",
+    "openai",
+    "ipykernel",
+    "scipy",
+    "networkx",
+    "tabulate",
+    "neo4j",
+]
