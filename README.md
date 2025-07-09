@@ -53,27 +53,3 @@ To define them, I would suggest creating a `.env` file at the base of this repos
 
 `export $(grep -v '^#' .env | xargs)`
 
-### Use Neo4j
-
-Install `docker` locally
-
-Run the following command to start a local instance of Neo4j
-
-```
-bash start_up_neo4j.sh
-```
-
-To access Neo4j's UI, in your browser go to http://localhost:7474 and login with :
-
-- Username : neo4j
-- Password : password
-
-To stop Neo4j, run :
-
-```
-docker stop neo4j-container
-```
-
-```
-docker rm neo4j-container
-```
