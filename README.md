@@ -6,7 +6,7 @@ Collaborative research space for LLM usage in ESG negative news graph
 
 ### Notebook
 
-The notebook used for the research paper experimentations / results is `notebook/negraph.ipynb`.
+The notebook used for the research paper experimentations / results is `negraph.ipynb`.
 
 ### Data
 
