@@ -7,9 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2025-01-27
+## [0.0.1] - 2025-07-21
 
 ### Added
 
-- Set up basic structure for project
-- Add script to extract and process the data
+- Added data and notebooks necessary for research paper publication

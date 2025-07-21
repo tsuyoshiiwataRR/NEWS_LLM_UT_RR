@@ -12,7 +12,5 @@ dependencies = [
     "openai",
     "ipykernel",
     "scipy",
-    "networkx",
-    "tabulate",
-    "neo4j",
+    "scikit-learn",
 ]
