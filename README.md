@@ -8,10 +8,10 @@ The notebook used for the research paper experimentations / results is `research
 
 ### Data
 
-- The `webz.io` github page (https://github.com/Webhose/free-news-datasets) should be cloned in the `notebook/data` folder
-- The patterns generated through the experimentations are located in the `notebook/patterns/extraction_patterns.txt` file
-- The UNGC Principles are all defined in the folder `notebook/ungc_principles` folder, their filename is in the format `principle-X.txt` where `X` corresponds to the UNGC Principle number from 1 to 10. They can be manually extracted from this website by clicking on the respective _Principle X_ hyperlink https://unglobalcompact.org/what-is-gc/mission/principles
-- The UNGC Principle summaries generated are also located in the folder `notebook/ungc_principles` folder, their filename is in the format `principle-X-summary.txt` where `X`corresponds to the UNGC Principle number from 1 to 10.
+- The `webz.io` github page (https://github.com/Webhose/free-news-datasets) should be cloned in the `/data` folder
+- The patterns generated through the experimentations are located in the `/patterns/extraction_patterns.txt` file
+- The UNGC Principles are all defined in the folder `/ungc_principles` folder, their filename is in the format `principle-X.txt` where `X` corresponds to the UNGC Principle number from 1 to 10. They can be manually extracted from this website by clicking on the respective _Principle X_ hyperlink https://unglobalcompact.org/what-is-gc/mission/principles
+- The UNGC Principle summaries generated are also located in the folder `/ungc_principles` folder, their filename is in the format `principle-X-summary.txt` where `X`corresponds to the UNGC Principle number from 1 to 10.
 
 ## Local execution
 
