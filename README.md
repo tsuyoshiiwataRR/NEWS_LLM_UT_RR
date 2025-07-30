@@ -4,7 +4,7 @@
 
 ### Notebook
 
-The notebook used for the research paper experimentations / results is `negraph.ipynb`.
+The notebook used for the research paper experimentations / results is `research_notebook.ipynb`.
 
 ### Data
 
